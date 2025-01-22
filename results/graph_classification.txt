@@ -1,0 +1,5288 @@
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.000000000000014
+plus/minus:  0.09402127418834524
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.05999999999999999
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.0
+plus/minus:  0.0644980619863884
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.05300943312279428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.06752777206453651
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.07648529270389177
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.06008327554319921
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.0
+plus/minus:  0.0635609943282828
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.07238784428341544
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.5
+plus/minus:  0.09386160024205852
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 60.50000000000001
+plus/minus:  0.08420213774008355
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.0
+plus/minus:  0.05999999999999999
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.05665686189686117
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.060745370193949745
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.06511528238439881
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.04483302354291977
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.0490917508345343
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.049091750834534306
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.085146931829632
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.06074537019394975
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.0623698645180507
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.04857983120596448
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.04195235392680607
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.026267851073127384
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.060332412515993424
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.10625441167311594
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.020976176963403016
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.04012480529547776
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.00000000000001
+plus/minus:  0.0374165738677394
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.060083275543199206
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.0
+plus/minus:  0.05865151319446072
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.051380930314660525
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.06449806198638838
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.08006247560499238
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.05477225575051662
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.04909175083453431
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.06752777206453651
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.06789698078707182
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.05865151319446072
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.050596442562694056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.07042726744663604
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.5
+plus/minus:  0.040124805295477746
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.07106335201775947
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.0510881590977792
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.053291650377896904
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.05513619500836087
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.00000000000001
+plus/minus:  0.07615773105863907
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.08921883209278184
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 78.0
+plus/minus:  0.037947331922020565
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.99999999999999
+plus/minus:  0.05966573556070519
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06992853494818835
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.05513619500836088
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.053385391260156546
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.00000000000001
+plus/minus:  0.0629285308902091
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.49999999999999
+plus/minus:  0.06640783086353597
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.08508818954473059
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06395310782127792
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.5
+plus/minus:  0.05375872022286243
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.000000000000014
+plus/minus:  0.056920997883030816
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.050596442562694056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.06131883886702355
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.0
+plus/minus:  0.041952353926806074
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.05108815909777921
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.045716517802649854
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.05300943312279428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 61.5
+plus/minus:  0.06789698078707182
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.0
+plus/minus:  0.06899275324264136
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.0681175454637056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.03591656999213595
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.0
+plus/minus:  0.06899275324264136
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 60.0
+plus/minus:  0.05999999999999999
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.0448330235429198
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.04989989979949859
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.037947331922020565
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.0
+plus/minus:  0.07348469228349534
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.051478150704935006
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.99999999999999
+plus/minus:  0.05999999999999999
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.058309518948453
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.02756809750418044
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.0548634668973808
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.052535702146254776
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.49999999999999
+plus/minus:  0.04571651780264984
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.99999999999999
+plus/minus:  0.07042726744663602
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.04289522117905442
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.06008327554319921
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.0547722557505166
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.06789698078707182
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.03591656999213594
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.05513619500836088
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.0
+plus/minus:  0.0648074069840786
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.04427188724235732
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.06811754546370562
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 78.99999999999999
+plus/minus:  0.05621387729022078
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06549809157525127
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.07752418977325723
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.0997997995989972
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.07905694150420949
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.043474130238568304
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.06957010852370434
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.0
+plus/minus:  0.05966573556070518
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.0670074622710038
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.044271887242357304
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.06449806198638838
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.000000000000014
+plus/minus:  0.04289522117905443
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.03098386676965933
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.06172519744804387
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.08006247560499238
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.05375872022286243
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.0548634668973808
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.0
+plus/minus:  0.0732120208708925
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 79.5
+plus/minus:  0.04785394445602159
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 62.500000000000014
+plus/minus:  0.049497474683058325
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.05796550698475776
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.05735852159879994
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.00000000000001
+plus/minus:  0.06356099432828281
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.06488451279003334
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.0
+plus/minus:  0.058651513194460714
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.04195235392680606
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.05665686189686117
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.04647580015448901
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06848357467305571
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.0
+plus/minus:  0.05440588203494177
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.49999999999999
+plus/minus:  0.06549809157525126
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.06752777206453651
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.05735852159879994
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.0
+plus/minus:  0.06752777206453651
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.06603029607687672
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.0
+plus/minus:  0.06131883886702356
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.49999999999999
+plus/minus:  0.08538149682454624
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.0262678510731274
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.0678969807870718
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 60.5
+plus/minus:  0.059076221950967706
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.000000000000014
+plus/minus:  0.0737563556583431
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.0644980619863884
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.04289522117905443
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.50000000000001
+plus/minus:  0.03591656999213595
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.5
+plus/minus:  0.05665686189686117
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 61.00000000000001
+plus/minus:  0.06752777206453651
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.00000000000001
+plus/minus:  0.04898979485566355
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.00000000000001
+plus/minus:  0.04289522117905444
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.06928203230275509
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.05513619500836087
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.04110960958218894
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.0629285308902091
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.03521363372331802
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.046475800154489
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.0
+plus/minus:  0.07974960814950753
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.07071067811865475
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.5
+plus/minus:  0.05839520528262572
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.00000000000001
+plus/minus:  0.05059644256269407
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.025298221281347042
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.05692099788303082
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 61.5
+plus/minus:  0.06935416353759881
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 77.0
+plus/minus:  0.035213633723318025
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.049497474683058325
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.49999999999999
+plus/minus:  0.05735852159879994
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.99999999999999
+plus/minus:  0.09252026804976302
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.06131883886702356
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.00000000000001
+plus/minus:  0.04242640687119286
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.5
+plus/minus:  0.06848357467305571
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.05375872022286245
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.074899933244296
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.49999999999999
+plus/minus:  0.0498998997994986
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.49999999999999
+plus/minus:  0.043474130238568325
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.03754996671103717
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.07375635565834311
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.048579831205964465
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.5
+plus/minus:  0.06549809157525127
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.04571651780264984
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.04516635916254486
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.49999999999999
+plus/minus:  0.07245688373094719
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.00000000000001
+plus/minus:  0.04427188724235732
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.034641016151377546
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.07273238618387272
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.044721359549995794
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.99999999999999
+plus/minus:  0.04898979485566356
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 57.999999999999986
+plus/minus:  0.07641989269817119
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.06519202405202648
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.50000000000001
+plus/minus:  0.04527692569068709
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.49999999999999
+plus/minus:  0.04110960958218894
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.07803845206050668
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.0651920240520265
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.49999999999999
+plus/minus:  0.07622335600063802
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.00000000000001
+plus/minus:  0.06164414002968975
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.08099382692526633
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.49999999999999
+plus/minus:  0.06172519744804386
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.0
+plus/minus:  0.06324555320336758
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 61.0
+plus/minus:  0.05796550698475774
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.07134423592694787
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 78.49999999999999
+plus/minus:  0.0510881590977792
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.07874007874011811
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.05839520528262572
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.09060905032059434
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.04857983120596448
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.0548634668973808
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.06324555320336758
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.07134423592694789
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.00000000000001
+plus/minus:  0.08461678320522471
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.0
+plus/minus:  0.0959166304662544
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.99999999999999
+plus/minus:  0.05621387729022078
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.5
+plus/minus:  0.06549809157525124
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.49999999999999
+plus/minus:  0.04949747468305833
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.06663332499583072
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.5
+plus/minus:  0.057358521598799936
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.06899275324264136
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.50000000000001
+plus/minus:  0.04571651780264982
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.12653062870309306
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.04110960958218894
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.058395205282625734
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.05513619500836089
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.040124805295477774
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 61.0
+plus/minus:  0.08221921916437785
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.0
+plus/minus:  0.054405882034941774
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.07674633541739956
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.05253570214625479
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.050596442562694056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.059076221950967706
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.10222524150130437
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.053291650377896904
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.07589466384404112
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.05621387729022079
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.49999999999999
+plus/minus:  0.06848357467305571
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.04785394445602159
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.087692645073575
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.0623698645180507
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.49999999999999
+plus/minus:  0.059076221950967726
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 62.5
+plus/minus:  0.06519202405202648
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.07078135347674555
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.049497474683058325
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.060083275543199206
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.04898979485566356
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.04062019202317981
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.05300943312279428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.059076221950967726
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.04690415759823428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.5
+plus/minus:  0.0805605362444913
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.0
+plus/minus:  0.07042726744663604
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.06511528238439881
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.0758946638440411
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.060000000000000005
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 78.0
+plus/minus:  0.08270429251254133
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.00000000000001
+plus/minus:  0.06899275324264136
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.0
+plus/minus:  0.07720103626247511
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.05477225575051662
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.50000000000001
+plus/minus:  0.0651920240520265
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.0
+plus/minus:  0.05999999999999999
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.5
+plus/minus:  0.04571651780264984
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.06811754546370562
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.00000000000001
+plus/minus:  0.07771743691090179
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.05440588203494176
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.0513809303146605
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06395310782127793
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.051478150704935006
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.04939635614091388
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.0406201920231798
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.03687817782917154
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.99999999999999
+plus/minus:  0.04898979485566358
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.0510881590977792
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.04
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.04743416490252569
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.99999999999999
+plus/minus:  0.052915026221291815
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.05558776843874918
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.0681175454637056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.07355270219373315
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.05665686189686117
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.03807886552931955
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.0629285308902091
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.06196773353931864
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.5
+plus/minus:  0.04254409477236529
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.0552268050859363
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.08276472678623424
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.044271887242357304
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 61.999999999999986
+plus/minus:  0.05513619500836087
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.49999999999999
+plus/minus:  0.062048368229954284
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.06131883886702357
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.50000000000001
+plus/minus:  0.05186520991955975
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.00000000000001
+plus/minus:  0.050596442562694056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.00000000000001
+plus/minus:  0.05966573556070519
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.05300943312279428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.06992853494818835
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.0586515131944607
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.99999999999999
+plus/minus:  0.066332495807108
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.06363961030678926
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.08276472678623424
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.07218032973047434
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.05186520991955975
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.0551361950083609
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 62.5
+plus/minus:  0.060415229867972854
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.06670832032063168
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.050596442562694056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.08148619514985343
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.5
+plus/minus:  0.0498998997994986
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 61.5
+plus/minus:  0.07489993324429599
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.029832867780352594
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.10411532067856297
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.03240370349203931
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.07930952023559339
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.06033241251599341
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.04690415759823429
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 62.999999999999986
+plus/minus:  0.09402127418834526
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.5
+plus/minus:  0.03591656999213593
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.06074537019394976
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.49999999999999
+plus/minus:  0.058395205282625734
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.00000000000001
+plus/minus:  0.05138093031466051
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.07516648189186455
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.05513619500836088
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.0552268050859363
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.06811754546370559
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.0629285308902091
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.49999999999999
+plus/minus:  0.05522680508593631
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.058309518948453
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.0447213595499958
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.049091750834534306
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.0
+plus/minus:  0.06511528238439881
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.04012480529547776
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 59.5
+plus/minus:  0.06992853494818835
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.0469041575982343
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.0510881590977792
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.00000000000001
+plus/minus:  0.04939635614091388
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.058395205282625734
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.06204836822995428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.5
+plus/minus:  0.0888256719648098
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.054863466897380815
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.061725197448043854
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.5
+plus/minus:  0.045716517802649834
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.08246211251235322
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.04483302354291978
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.06395310782127793
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.051088159097779196
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.024698178070456926
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.06782329983125268
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06848357467305571
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.08491171886141512
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.04527692569068708
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.05138093031466052
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.99999999999999
+plus/minus:  0.1067707825203131
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.07375635565834308
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.0635609943282828
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.0478539444560216
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.051088159097779196
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.5
+plus/minus:  0.06074537019394977
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.05300943312279428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 78.49999999999999
+plus/minus:  0.04012480529547776
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.08831760866327847
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.00000000000001
+plus/minus:  0.036878177829171556
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.99999999999999
+plus/minus:  0.06164414002968975
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.99999999999999
+plus/minus:  0.059665735560705174
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 80.0
+plus/minus:  0.05656854249492379
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.05375872022286244
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.07134423592694787
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.99999999999999
+plus/minus:  0.09165151389911681
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.09715966241192896
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.05099019513592785
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.045716517802649834
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.03478505426185218
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.051088159097779196
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.040620192023179805
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.04571651780264984
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.04939635614091386
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.09170605214488299
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.06789698078707182
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.06957010852370434
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.09300537618869137
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.04939635614091388
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.042544094772365294
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 66.49999999999999
+plus/minus:  0.08252272414311104
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.0
+plus/minus:  0.05059644256269407
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.06131883886702357
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 77.49999999999999
+plus/minus:  0.02549509756796393
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.07752418977325723
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.5
+plus/minus:  0.05735852159879994
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.07899367063252599
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.07218032973047435
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.49999999999999
+plus/minus:  0.06992853494818835
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.000000000000014
+plus/minus:  0.0513809303146605
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.043474130238568325
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 63.0
+plus/minus:  0.08508818954473057
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.06928203230275509
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.49999999999999
+plus/minus:  0.04347413023856831
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.04527692569068709
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.08366600265340755
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 64.99999999999999
+plus/minus:  0.05656854249492381
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.05375872022286244
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.5
+plus/minus:  0.06670832032063168
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.045716517802649834
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.062048368229954284
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 77.49999999999999
+plus/minus:  0.062048368229954284
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.04254409477236531
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.06640783086353597
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06395310782127793
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.0
+plus/minus:  0.08148619514985345
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.05375872022286244
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.99999999999999
+plus/minus:  0.04898979485566356
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 77.00000000000001
+plus/minus:  0.06356099432828281
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.5
+plus/minus:  0.05186520991955975
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.0510881590977792
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.06700746227100382
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.04989989979949859
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.09386160024205852
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.06935416353759881
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.0
+plus/minus:  0.052915026221291815
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 67.0
+plus/minus:  0.06957010852370434
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.06640783086353597
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.07078135347674555
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 65.0
+plus/minus:  0.056568542494923796
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.038600518131237556
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 62.5
+plus/minus:  0.10511898020814318
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 77.0
+plus/minus:  0.06663332499583073
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.037549966711037185
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.092951600308978
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.03521363372331803
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.04690415759823429
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.0
+plus/minus:  0.06356099432828283
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.50000000000001
+plus/minus:  0.06008327554319921
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.5
+plus/minus:  0.07134423592694789
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.06074537019394976
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.0
+plus/minus:  0.074565407529229
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.06008327554319919
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.03807886552931955
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.04949747468305833
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.50000000000001
+plus/minus:  0.06332456079595027
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.5
+plus/minus:  0.05300943312279428
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.49999999999999
+plus/minus:  0.05486346689738081
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 68.5
+plus/minus:  0.0510881590977792
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.19999999999999
+plus/minus:  0.01909554921964802
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.94999999999999
+plus/minus:  0.021170498340851586
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.55
+plus/minus:  0.022781352023091166
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.7
+plus/minus:  0.021495115724275596
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.35000000000002
+plus/minus:  0.022174534944390607
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.8
+plus/minus:  0.020333224043422138
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.75
+plus/minus:  0.02085065946199304
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.60000000000001
+plus/minus:  0.018410866356584094
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.69999999999997
+plus/minus:  0.0200509351402871
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.14999999999999
+plus/minus:  0.02077763220388695
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.30000000000001
+plus/minus:  0.021043763921884315
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.09999999999998
+plus/minus:  0.01862149295840696
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.45
+plus/minus:  0.020808411760631806
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.021236760581595304
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 69.2
+plus/minus:  0.020431348462595415
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.75
+plus/minus:  0.01785357107135713
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.9
+plus/minus:  0.022107917133913815
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.50000000000001
+plus/minus:  0.02007485989988473
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.09999999999998
+plus/minus:  0.01867511713484015
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 70.55000000000001
+plus/minus:  0.019333649422703412
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.84999999999998
+plus/minus:  0.020290638235403044
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.45000000000002
+plus/minus:  0.018777380008936286
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.69999999999999
+plus/minus:  0.020120636172845034
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.65
+plus/minus:  0.020516091245653983
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.25
+plus/minus:  0.020316249653910042
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.75000000000001
+plus/minus:  0.018131464364468747
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.50000000000001
+plus/minus:  0.02118962010041709
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.6
+plus/minus:  0.019497692171126305
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.69999999999999
+plus/minus:  0.021661948204166677
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.85
+plus/minus:  0.022264545807179632
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.2
+plus/minus:  0.02028398382961296
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.75
+plus/minus:  0.019512816301087855
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.99999999999999
+plus/minus:  0.018920887928424505
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.2
+plus/minus:  0.018467268341582087
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.4
+plus/minus:  0.018203296404772407
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.75
+plus/minus:  0.019767397400770794
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.35000000000001
+plus/minus:  0.0219934081033386
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.02032240143290158
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.14999999999999
+plus/minus:  0.019455333458977257
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.35
+plus/minus:  0.019486148926865975
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.89999999999999
+plus/minus:  0.018845689162246097
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.15
+plus/minus:  0.020330027053597342
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.75
+plus/minus:  0.016755596080116043
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.55
+plus/minus:  0.017221788525005173
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.80000000000001
+plus/minus:  0.01674037036627326
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.59999999999998
+plus/minus:  0.022003636063160106
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.15
+plus/minus:  0.019992748685460936
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.45000000000002
+plus/minus:  0.01798304757264463
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.99999999999999
+plus/minus:  0.01788854381999832
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.05
+plus/minus:  0.01818213408816468
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.79999999999998
+plus/minus:  0.017939899665271264
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.3
+plus/minus:  0.022584065178793654
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.6
+plus/minus:  0.01746310396235446
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 71.05000000000001
+plus/minus:  0.019813884021059578
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.04999999999998
+plus/minus:  0.018659849945806103
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.00000000000001
+plus/minus:  0.01886796226411321
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 78.1
+plus/minus:  0.017876241215647095
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.3
+plus/minus:  0.01970888124678821
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.8
+plus/minus:  0.01947921969689751
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.3
+plus/minus:  0.019759554650851822
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.79999999999998
+plus/minus:  0.016280049139974977
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.65000000000002
+plus/minus:  0.018420369160253004
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.59999999999998
+plus/minus:  0.019893717601293128
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.89999999999999
+plus/minus:  0.020629105651966594
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.05
+plus/minus:  0.018841178307101705
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 74.25
+plus/minus:  0.01796524422322168
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.1
+plus/minus:  0.017582946283259814
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.54999999999998
+plus/minus:  0.021009283662228945
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.05
+plus/minus:  0.017105262348178118
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.25
+plus/minus:  0.017168284713389395
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 77.35000000000001
+plus/minus:  0.017518846994023323
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.64999999999999
+plus/minus:  0.018528626500634093
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 73.89999999999999
+plus/minus:  0.020078844588272502
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 76.2
+plus/minus:  0.017951044537853504
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 72.24999999999999
+plus/minus:  0.053138968751755056
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.49999999999999
+plus/minus:  0.04522167621838005
+
+RESULTS FOR mutag (sper), 10 ITERATIONS:
+average acc: 75.75
+plus/minus:  0.0395442789793922
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 79.0
+plus/minus:  0.03781534080237808
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.5
+plus/minus:  0.042485291572495996
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.045000000000000005
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.75
+plus/minus:  0.039290584113754266
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.75000000000001
+plus/minus:  0.04211591148247892
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.25
+plus/minus:  0.04078909167902615
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.0
+plus/minus:  0.03847076812334269
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.25
+plus/minus:  0.05209366564180332
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.75
+plus/minus:  0.04498610896710228
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.25
+plus/minus:  0.042352685865243545
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.8
+plus/minus:  0.01721162397916013
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.0
+plus/minus:  0.017435595774162697
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.80000000000001
+plus/minus:  0.019386593305684215
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.94999999999999
+plus/minus:  0.017279756942735047
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.69999999999999
+plus/minus:  0.017390802166662698
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.95000000000002
+plus/minus:  0.018269920634748256
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.01854723699099141
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.19999999999999
+plus/minus:  0.022150395030337493
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.05000000000001
+plus/minus:  0.020292609492127918
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.4
+plus/minus:  0.019833305322109075
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.55
+plus/minus:  0.017256592942988487
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.89999999999998
+plus/minus:  0.018329211657897346
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.35
+plus/minus:  0.018420369160253004
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.94999999999999
+plus/minus:  0.01959055895067826
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.04999999999998
+plus/minus:  0.01721017141111616
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.05
+plus/minus:  0.018215103623092567
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.55
+plus/minus:  0.0215264953023013
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.89999999999999
+plus/minus:  0.01968654362756449
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.55
+plus/minus:  0.016498181717995476
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.1
+plus/minus:  0.019088216260300488
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.7
+plus/minus:  0.018794680098368266
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.69999999999999
+plus/minus:  0.020996190130592736
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.60000000000001
+plus/minus:  0.014483093592185341
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.55
+plus/minus:  0.01871336420850083
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 81.1
+plus/minus:  0.01792093747547823
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.5
+plus/minus:  0.0194164878389476
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.25
+plus/minus:  0.019817921182606415
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.19999999999999
+plus/minus:  0.02305298245347009
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.3
+plus/minus:  0.018995789007040485
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.60000000000001
+plus/minus:  0.017116074316267736
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.09999999999998
+plus/minus:  0.01807650408679732
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.89999999999999
+plus/minus:  0.017480274597385475
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.9
+plus/minus:  0.019676381781211706
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.2
+plus/minus:  0.018990523952750752
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.75
+plus/minus:  0.01899341991322258
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.04999999999998
+plus/minus:  0.018862396454321494
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.2
+plus/minus:  0.018183509012289132
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.05
+plus/minus:  0.015459301407243475
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.7
+plus/minus:  0.019319420281157507
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.95
+plus/minus:  0.01883056026781997
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.24999999999999
+plus/minus:  0.016874537030686206
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.85
+plus/minus:  0.018721912295489477
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.5
+plus/minus:  0.019467922333931784
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.01886796226411321
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.55
+plus/minus:  0.017081861725233582
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.85000000000001
+plus/minus:  0.020398774472992244
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.0
+plus/minus:  0.01618641405623865
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.5
+plus/minus:  0.017748239349298846
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.75
+plus/minus:  0.015898113095584646
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.4
+plus/minus:  0.02033125672456083
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.25
+plus/minus:  0.019868316486305528
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.60000000000001
+plus/minus:  0.018192306066026922
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.15000000000002
+plus/minus:  0.019039695375714392
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.95000000000002
+plus/minus:  0.01834638929053889
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.69999999999999
+plus/minus:  0.01919479096004955
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.30000000000003
+plus/minus:  0.017413787640832193
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.55
+plus/minus:  0.016738876903783
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.35000000000001
+plus/minus:  0.01833330303027799
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.5
+plus/minus:  0.017691806012954135
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.85
+plus/minus:  0.017381311803198286
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.8
+plus/minus:  0.020065891457894412
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.80000000000001
+plus/minus:  0.018194504664870655
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.8
+plus/minus:  0.017024687956024333
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.75
+plus/minus:  0.016635804759614126
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.3
+plus/minus:  0.019535608513685975
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.00000000000001
+plus/minus:  0.0182208671582886
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.09999999999998
+plus/minus:  0.01918228349284829
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.05000000000001
+plus/minus:  0.019803787516533295
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.5
+plus/minus:  0.01734935157289747
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.34999999999998
+plus/minus:  0.020369339704565784
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.05
+plus/minus:  0.018313656106850977
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.55
+plus/minus:  0.018411681074795967
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.69999999999999
+plus/minus:  0.01578733669749271
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.35
+plus/minus:  0.018431223507949766
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.60000000000001
+plus/minus:  0.018562327440275375
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.25
+plus/minus:  0.017853571071357127
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.05
+plus/minus:  0.018215103623092567
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.1
+plus/minus:  0.01723832938541319
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.14999999999999
+plus/minus:  0.017172943836162743
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.8
+plus/minus:  0.01722324011328879
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.85000000000001
+plus/minus:  0.015611213918206366
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.55
+plus/minus:  0.016738876903783
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.35000000000001
+plus/minus:  0.01835510828080292
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.6
+plus/minus:  0.017656726763474594
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.64999999999999
+plus/minus:  0.019102617621676875
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.25
+plus/minus:  0.016454482671904337
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.35000000000001
+plus/minus:  0.01951691573994211
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.64999999999998
+plus/minus:  0.0185070256929632
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.39999999999998
+plus/minus:  0.019124852940611073
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 82.10000000000001
+plus/minus:  0.017560182231400673
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.79999999999998
+plus/minus:  0.018325937902328494
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.35000000000001
+plus/minus:  0.01680803379339773
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 83.00000000000001
+plus/minus:  0.017088007490635063
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.55
+plus/minus:  0.018627667594199766
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.35
+plus/minus:  0.019761325866449346
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.6
+plus/minus:  0.022175662335091596
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.75000000000001
+plus/minus:  0.017226433176952216
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.0
+plus/minus:  0.01865475810617763
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.7
+plus/minus:  0.016113348503647526
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.25
+plus/minus:  0.017342145196024623
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.0
+plus/minus:  0.01606237840420901
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.70000000000002
+plus/minus:  0.016371927192606252
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.24999999999997
+plus/minus:  0.015771810295587507
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.5
+plus/minus:  0.016941074346097415
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.85000000000001
+plus/minus:  0.019102617621676875
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.60000000000001
+plus/minus:  0.01684517735139645
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.55000000000001
+plus/minus:  0.01872404870747777
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.6
+plus/minus:  0.018070971196922428
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.8
+plus/minus:  0.018863721796082554
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.5
+plus/minus:  0.01786057109949175
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.05
+plus/minus:  0.018093921631310333
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.05000000000001
+plus/minus:  0.016142800252744255
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.89999999999998
+plus/minus:  0.016551737068960466
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.69999999999997
+plus/minus:  0.016662532820672853
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.99999999999999
+plus/minus:  0.017029386365926404
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.35
+plus/minus:  0.018014161096204285
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.9
+plus/minus:  0.019358718965882017
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 82.45
+plus/minus:  0.017233397807745285
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.94999999999999
+plus/minus:  0.017070149384232115
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.95
+plus/minus:  0.017163624325881758
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.70000000000002
+plus/minus:  0.016877203559831827
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.60000000000001
+plus/minus:  0.018312837027615356
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.74999999999999
+plus/minus:  0.015516120649182901
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.2
+plus/minus:  0.016218507946170635
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.85
+plus/minus:  0.015391880976670786
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.3
+plus/minus:  0.019484352696458766
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.10000000000001
+plus/minus:  0.01754878913201706
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.79999999999998
+plus/minus:  0.0187040102651811
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.45
+plus/minus:  0.016204628968291744
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.85000000000001
+plus/minus:  0.017846848461283017
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.89999999999999
+plus/minus:  0.01720348801842231
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.09999999999998
+plus/minus:  0.02125935088378758
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.10000000000001
+plus/minus:  0.01818680840609479
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 82.29999999999998
+plus/minus:  0.018023318229449314
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.7
+plus/minus:  0.01855909480551247
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.35
+plus/minus:  0.017947423213375228
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.69999999999999
+plus/minus:  0.01542854497352229
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.44999999999999
+plus/minus:  0.01608073381410189
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 82.10000000000001
+plus/minus:  0.01662407892185308
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.04999999999998
+plus/minus:  0.017046700560519035
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.35
+plus/minus:  0.017450214898390222
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.6
+plus/minus:  0.01732512626216617
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.6
+plus/minus:  0.019072493282211427
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.39999999999999
+plus/minus:  0.016868906307167635
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.7
+plus/minus:  0.016554153557340225
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.8
+plus/minus:  0.015357083056361975
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.65
+plus/minus:  0.02016209314530612
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.39999999999998
+plus/minus:  0.01683330033000065
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.79999999999998
+plus/minus:  0.017442476888332118
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.0
+plus/minus:  0.01766352173265569
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.00000000000001
+plus/minus:  0.01624807680927192
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.44999999999999
+plus/minus:  0.020183904478569055
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.30000000000001
+plus/minus:  0.01714759458349771
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.6
+plus/minus:  0.015302287410710857
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.0
+plus/minus:  0.01860107523773827
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.39999999999999
+plus/minus:  0.018301912468373354
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.1
+plus/minus:  0.01808756478910304
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.19999999999999
+plus/minus:  0.0202741214359587
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.44999999999999
+plus/minus:  0.016952580924449234
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.5
+plus/minus:  0.020566963801203132
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.05000000000001
+plus/minus:  0.017949651807207846
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.4
+plus/minus:  0.016569852141766383
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.25000000000001
+plus/minus:  0.017909494688572315
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.94999999999999
+plus/minus:  0.01643745722427894
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.10000000000001
+plus/minus:  0.016575886099994778
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.35000000000002
+plus/minus:  0.02225556110278957
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.9
+plus/minus:  0.018241710446117707
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.55
+plus/minus:  0.018616927780920244
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.89999999999999
+plus/minus:  0.018131740126088286
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.74999999999999
+plus/minus:  0.019202864369671523
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.55000000000001
+plus/minus:  0.019884416008522858
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.50000000000001
+plus/minus:  0.01857417562100671
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.6
+plus/minus:  0.017520273970460624
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.35
+plus/minus:  0.01741579742647462
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.9
+plus/minus:  0.020227703774773845
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.24999999999999
+plus/minus:  0.0216043977004683
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.85
+plus/minus:  0.016772298590235032
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.34999999999998
+plus/minus:  0.02036933970456578
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.35
+plus/minus:  0.01730057802502564
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.19999999999999
+plus/minus:  0.018671904027174092
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.30000000000001
+plus/minus:  0.02032830538928418
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.1
+plus/minus:  0.0183401199559872
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.50000000000001
+plus/minus:  0.019157244060668016
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.85
+plus/minus:  0.01700911520332554
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.05000000000001
+plus/minus:  0.018681274046488366
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.94999999999999
+plus/minus:  0.01837906417639375
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.10000000000001
+plus/minus:  0.019119623427254002
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.65
+plus/minus:  0.01625146147274146
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.0
+plus/minus:  0.01928730152198591
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.30000000000001
+plus/minus:  0.01867725889952806
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.0
+plus/minus:  0.01876166303929372
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.24999999999999
+plus/minus:  0.016147755261955145
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.3
+plus/minus:  0.02011069367277022
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.94999999999999
+plus/minus:  0.02057644284126875
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.14999999999999
+plus/minus:  0.01932123184478671
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.49999999999999
+plus/minus:  0.017578395831246946
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.10000000000001
+plus/minus:  0.019077735714701578
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.3
+plus/minus:  0.018320480343047778
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.00000000000001
+plus/minus:  0.019183326093250876
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.24999999999999
+plus/minus:  0.014924811556599301
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.64999999999999
+plus/minus:  0.020062651868584074
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.8
+plus/minus:  0.018227451824103118
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 76.95
+plus/minus:  0.018595429545993282
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 76.65
+plus/minus:  0.017666635220097798
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 78.89999999999998
+plus/minus:  0.017121915780659594
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 78.15
+plus/minus:  0.017700564962734953
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 79.99999999999999
+plus/minus:  0.018275666882497064
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 78.8
+plus/minus:  0.020352886773133686
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 79.7
+plus/minus:  0.016113348503647526
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 78.95
+plus/minus:  0.01784908961263851
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 81.19999999999999
+plus/minus:  0.016316862443496914
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 77.65
+plus/minus:  0.016398475538902998
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 80.25
+plus/minus:  0.016695807857064
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 80.85000000000001
+plus/minus:  0.018223885425451947
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 80.29999999999998
+plus/minus:  0.017596590578859303
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.34999999999998
+plus/minus:  0.016664633209284862
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.95
+plus/minus:  0.019041796133768475
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.14999999999999
+plus/minus:  0.017609940374686113
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.14999999999999
+plus/minus:  0.01609068053253187
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.50000000000001
+plus/minus:  0.01889444362769118
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.14999999999999
+plus/minus:  0.01979166491228062
+
+RESULTS FOR imdb (delaunay), 10 ITERATIONS:
+average acc: 46.96
+plus/minus:  0.0068171548317461595
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.8
+plus/minus:  0.020905501668221214
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.05
+plus/minus:  0.01938530371183284
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.30000000000001
+plus/minus:  0.02011069367277022
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.5
+plus/minus:  0.015524174696260027
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.45
+plus/minus:  0.01830273203650209
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.49999999999999
+plus/minus:  0.01584297951775486
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.09999999999998
+plus/minus:  0.018919830866051632
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.30000000000001
+plus/minus:  0.01935045219109879
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.55
+plus/minus:  0.016643016553497744
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.6
+plus/minus:  0.018258148865643527
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.0
+plus/minus:  0.021354156504062617
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.14999999999998
+plus/minus:  0.01780196618354276
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.95
+plus/minus:  0.019894471593887585
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.39999999999999
+plus/minus:  0.020565991344936425
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.05000000000001
+plus/minus:  0.019219521325985204
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.64999999999999
+plus/minus:  0.01931087776358185
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.09999999999998
+plus/minus:  0.01965604232799675
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.10000000000001
+plus/minus:  0.01809861873182592
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 80.10000000000001
+plus/minus:  0.018329211657897346
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.59821428571428
+plus/minus:  0.008174183944790168
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 70.99999999999999
+plus/minus:  0.008753570700005799
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 70.88392857142858
+plus/minus:  0.008714926059611168
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.38392857142857
+plus/minus:  0.006982005844472268
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.28571428571429
+plus/minus:  0.00897033091556236
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 70.53571428571426
+plus/minus:  0.00880630571852711
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.00892857142857
+plus/minus:  0.007416434969246426
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.22321428571428
+plus/minus:  0.00828715735586192
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.11607142857142
+plus/minus:  0.008738604095083622
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 72.05357142857143
+plus/minus:  0.007899641557355236
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.24107142857144
+plus/minus:  0.008196000611298668
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 72.23214285714288
+plus/minus:  0.008354776832349703
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 70.83928571428572
+plus/minus:  0.008490015143853228
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.51785714285715
+plus/minus:  0.007649446425215675
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.86607142857143
+plus/minus:  0.007879412434066544
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.73214285714285
+plus/minus:  0.009432967048969206
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 72.41071428571429
+plus/minus:  0.008266526427930503
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 70.82142857142858
+plus/minus:  0.008371477327990635
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 72.26785714285714
+plus/minus:  0.007545863172653487
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.36607142857142
+plus/minus:  0.008323248574729382
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.41071428571429
+plus/minus:  0.007204997556968244
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 70.92857142857143
+plus/minus:  0.008207761384127557
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.76785714285715
+plus/minus:  0.007945044020632983
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.59821428571426
+plus/minus:  0.007774299463157895
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.67857142857144
+plus/minus:  0.008511996336503739
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.94642857142857
+plus/minus:  0.007926560233976473
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 47.65
+plus/minus:  0.009092304438369848
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 47.54
+plus/minus:  0.007596946755111555
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 47.169999999999995
+plus/minus:  0.007499626657374353
+
+RESULTS FOR proteins (delaunay), 10 ITERATIONS:
+average acc: 72.23214285714286
+plus/minus:  0.008243349205416993
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 47.71
+plus/minus:  0.008792246584349189
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 21.283333333333335
+plus/minus:  0.010737835494694033
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 21.85
+plus/minus:  0.010953386082242635
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 21.016666666666666
+plus/minus:  0.010943237384085407
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 20.666666666666664
+plus/minus:  0.011125546178852424
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 22.6
+plus/minus:  0.012214017448088985
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 23.95
+plus/minus:  0.010879695665678233
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 26.816666666666666
+plus/minus:  0.012365678307314968
+
+RESULTS FOR mutag (gtr), 10 ITERATIONS:
+average acc: 78.89999999999999
+plus/minus:  0.0180321934328578
+
+RESULTS FOR proteins (gtr), 10 ITERATIONS:
+average acc: 73.25892857142858
+plus/minus:  0.009235354511830267
+
+RESULTS FOR mutag (delaunay), 10 ITERATIONS:
+average acc: 74.54999999999998
+plus/minus:  0.02874352100909003
+
+RESULTS FOR proteins (delaunay), 10 ITERATIONS:
+average acc: 74.35714285714286
+plus/minus:  0.008575445487327318
+
+RESULTS FOR imdb (delaunay), 10 ITERATIONS:
+average acc: 50.17
+plus/minus:  0.010575651280181281
+
+RESULTS FOR mutag (gtr), 10 ITERATIONS:
+average acc: 74.50000000000001
+plus/minus:  0.03536947836765479
+
+RESULTS FOR enzymes (gtr), 10 ITERATIONS:
+average acc: 18.316666666666663
+plus/minus:  0.010619635900852095
+
+RESULTS FOR imdb (gtr), 10 ITERATIONS:
+average acc: 70.14999999999999
+plus/minus:  0.012757350822173075
+
+RESULTS FOR mutag (sdrf), 10 ITERATIONS:
+average acc: 79.55
+plus/minus:  0.026873592986424426
+
+RESULTS FOR enzymes (sdrf), 10 ITERATIONS:
+average acc: 32.38333333333333
+plus/minus:  0.012545517127643646
+
+RESULTS FOR imdb (sdrf), 10 ITERATIONS:
+average acc: 69.35
+plus/minus:  0.013897841559033544
+
+RESULTS FOR proteins (sdrf), 10 ITERATIONS:
+average acc: 70.10714285714286
+plus/minus:  0.008908835330096494
+
+RESULTS FOR mutag (fosr), 10 ITERATIONS:
+average acc: 69.14999999999999
+plus/minus:  0.03355756248597326
+
+RESULTS FOR enzymes (fosr), 10 ITERATIONS:
+average acc: 18.883333333333333
+plus/minus:  0.010220404427744858
+
+RESULTS FOR imdb (fosr), 10 ITERATIONS:
+average acc: 70.64
+plus/minus:  0.013423918950887629
+
+RESULTS FOR proteins (fosr), 10 ITERATIONS:
+average acc: 73.70535714285714
+plus/minus:  0.00793538558532319
+
+RESULTS FOR mutag (gtr), 10 ITERATIONS:
+average acc: 76.35
+plus/minus:  0.029456917693472272
+
+RESULTS FOR mutag (gtr), 10 ITERATIONS:
+average acc: 73.65
+plus/minus:  0.02873517008823856
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.10000000000001
+plus/minus:  0.032427765880491975
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.39999999999999
+plus/minus:  0.03091536834650365
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 66.04999999999998
+plus/minus:  0.03389085422352171
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.40000000000002
+plus/minus:  0.03176413071374691
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.2
+plus/minus:  0.028492806109613
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.54999999999998
+plus/minus:  0.027917557199726484
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.44999999999999
+plus/minus:  0.029829347964714214
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.4
+plus/minus:  0.02943739118875856
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 70.17999999999999
+plus/minus:  0.011082887710339755
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.60999999999999
+plus/minus:  0.012309004833860453
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.45000000000002
+plus/minus:  0.02930170643495017
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.3
+plus/minus:  0.028320310732758563
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 66.7
+plus/minus:  0.0318502747240899
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.85000000000001
+plus/minus:  0.030405756034014346
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 70.02
+plus/minus:  0.013948419265278771
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 70.31999999999998
+plus/minus:  0.011509578619567268
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 68.66
+plus/minus:  0.011782088100162891
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.92
+plus/minus:  0.010879999999999999
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 71.33000000000001
+plus/minus:  0.011085323630819264
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.42
+plus/minus:  0.011590271782835808
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 70.55000000000001
+plus/minus:  0.012215973149937748
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.53999999999999
+plus/minus:  0.011424254899117052
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.94999999999999
+plus/minus:  0.012713378779852347
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 70.28999999999999
+plus/minus:  0.009799163229582412
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.54
+plus/minus:  0.01114780695921848
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.4
+plus/minus:  0.012448293055676348
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.47
+plus/minus:  0.0071969715853267046
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 70.42000000000002
+plus/minus:  0.008768945204527166
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.87999999999998
+plus/minus:  0.009449994708993227
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 69.33000000000001
+plus/minus:  0.010855616058059531
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.69999999999999
+plus/minus:  0.023967477964942408
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.05
+plus/minus:  0.02646110352952046
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.85
+plus/minus:  0.026163142013145135
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 29.633333333333333
+plus/minus:  0.011309582957238815
+
+RESULTS FOR enzymes (goku), 10 ITERATIONS:
+average acc: 28.300000000000004
+plus/minus:  0.011784924456458956
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.49999999999999
+plus/minus:  0.021886068628239285
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.7
+plus/minus:  0.024852364072659165
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.94999999999999
+plus/minus:  0.020932988319874443
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.05
+plus/minus:  0.027462519913511212
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.99999999999999
+plus/minus:  0.02831960451701259
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.35000000000001
+plus/minus:  0.02553644454500274
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.95000000000002
+plus/minus:  0.027147559743004528
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.1
+plus/minus:  0.025384247083575277
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.44999999999999
+plus/minus:  0.026716848616556554
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.05000000000001
+plus/minus:  0.02449061044563814
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.60000000000001
+plus/minus:  0.024919069003476034
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.19999999999999
+plus/minus:  0.02749254444390333
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 66.99999999999999
+plus/minus:  0.03136877428271624
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.2
+plus/minus:  0.025016794358990124
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 67.9
+plus/minus:  0.03000599940011997
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.50000000000001
+plus/minus:  0.03001666203960727
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.6
+plus/minus:  0.02984895308046833
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.025534290669607412
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.1
+plus/minus:  0.030847366176061125
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.5
+plus/minus:  0.031064449134018134
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 63.95000000000001
+plus/minus:  0.029809226759511885
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.45000000000002
+plus/minus:  0.030459645434574578
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.05
+plus/minus:  0.03018261088772805
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 64.85
+plus/minus:  0.029781034233216284
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.55000000000001
+plus/minus:  0.024798991914995256
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.35000000000001
+plus/minus:  0.02342882839580332
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.25000000000001
+plus/minus:  0.029576172842340508
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.65
+plus/minus:  0.027344286423309716
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.9
+plus/minus:  0.027268296609799448
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.14999999999999
+plus/minus:  0.025917368693600052
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.89999999999998
+plus/minus:  0.02293381782433967
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.30000000000003
+plus/minus:  0.026054558142482483
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.80000000000001
+plus/minus:  0.024920674148184677
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.94999999999999
+plus/minus:  0.029315354338639677
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.85000000000001
+plus/minus:  0.028094661414581952
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.79999999999998
+plus/minus:  0.02838732111348304
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.64999999999999
+plus/minus:  0.02300673814342224
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.75000000000001
+plus/minus:  0.02822676035254489
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.4
+plus/minus:  0.022815784010197855
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.69999999999999
+plus/minus:  0.02251310729330805
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.90000000000002
+plus/minus:  0.03040986681983333
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.54999999999998
+plus/minus:  0.028840769753943812
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.74999999999999
+plus/minus:  0.029711109033491157
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.4
+plus/minus:  0.029680970334542634
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.80000000000001
+plus/minus:  0.02224050359142077
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.95
+plus/minus:  0.025498823502271627
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.20000000000002
+plus/minus:  0.025523322667709236
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.04999999999998
+plus/minus:  0.022886458878559612
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.85
+plus/minus:  0.024234479569406893
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.1
+plus/minus:  0.03191801998871484
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.3
+plus/minus:  0.025605468165999228
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.45
+plus/minus:  0.02938349877056849
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.75
+plus/minus:  0.02601441907865713
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.9
+plus/minus:  0.03358511575087988
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.60000000000001
+plus/minus:  0.0256390327430658
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.3
+plus/minus:  0.025985380505199458
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.35000000000001
+plus/minus:  0.022709249217004072
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.99999999999999
+plus/minus:  0.029051678092667906
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.9
+plus/minus:  0.02686186888509435
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.04999999999998
+plus/minus:  0.021967931172506897
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.45
+plus/minus:  0.024831230336010333
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 67.14999999999999
+plus/minus:  0.029572115243925317
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.15
+plus/minus:  0.026163142013145135
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.64999999999999
+plus/minus:  0.02670037452920838
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.20000000000002
+plus/minus:  0.02555464732685623
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.1
+plus/minus:  0.022162129861545345
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.65
+plus/minus:  0.028546628522471796
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.55000000000001
+plus/minus:  0.026271467412384862
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.49999999999999
+plus/minus:  0.02590366769397724
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.95
+plus/minus:  0.023233381157291767
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.9
+plus/minus:  0.027812946625627426
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.74999999999999
+plus/minus:  0.02531304011769428
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.55
+plus/minus:  0.022816441440329818
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.7
+plus/minus:  0.028355599094358773
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.10000000000001
+plus/minus:  0.02736347931093559
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.1
+plus/minus:  0.023570320320267183
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.7
+plus/minus:  0.021560148422494683
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.99999999999999
+plus/minus:  0.019131126469708992
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.89999999999999
+plus/minus:  0.026068371640745037
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.95
+plus/minus:  0.023600635584661696
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.45
+plus/minus:  0.028053342046893453
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.75000000000001
+plus/minus:  0.02060946384552495
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.04999999999998
+plus/minus:  0.0250876463623035
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.55
+plus/minus:  0.022947548888715762
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.19999999999999
+plus/minus:  0.022339203208709125
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.05000000000003
+plus/minus:  0.028618001327835603
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.04999999999998
+plus/minus:  0.027147559743004528
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.7
+plus/minus:  0.022280933553152568
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.4
+plus/minus:  0.02084610275327261
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.85
+plus/minus:  0.028165759354222997
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.55000000000001
+plus/minus:  0.024053897813036455
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 65.8
+plus/minus:  0.022791226382097126
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.30000000000001
+plus/minus:  0.02141121201613771
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.4
+plus/minus:  0.029239699040858817
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.6
+plus/minus:  0.025063120316512866
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.8
+plus/minus:  0.02948626799037139
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.30000000000001
+plus/minus:  0.03140127385951086
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 66.25
+average acc: 70.25
+plus/minus:  0.030211752680041587
+
+plus/minus:  0.03073678577860737
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.04999999999998
+plus/minus:  0.025451718998920285
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.10000000000001
+plus/minus:  0.02319396473223153
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.85
+plus/minus:  0.026527532866815938
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.84999999999998
+plus/minus:  0.0235819846493038
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.45
+plus/minus:  0.025988266583210202
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.85
+plus/minus:  0.028236678274896287
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.2
+plus/minus:  0.02636361128525453
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.30000000000001
+plus/minus:  0.02537794317906792
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.25
+plus/minus:  0.024914855006601986
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.3
+plus/minus:  0.025519404381764088
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.9
+plus/minus:  0.02812045518834999
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.65
+plus/minus:  0.027138717729472777
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.2
+plus/minus:  0.02932302849297801
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.19999999999999
+plus/minus:  0.0273612865194603
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.65
+plus/minus:  0.025418693908224314
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.39999999999999
+plus/minus:  0.03176413071374691
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 67.05000000000001
+plus/minus:  0.029869549712039513
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.10000000000001
+plus/minus:  0.0253527118865024
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.30000000000001
+plus/minus:  0.023580500418778225
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.85
+plus/minus:  0.022523543238131962
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.35000000000001
+plus/minus:  0.027271046917931113
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.19999999999999
+plus/minus:  0.02086719914123599
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.1
+plus/minus:  0.024477744994177878
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.55
+plus/minus:  0.026301901071975768
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.14999999999999
+plus/minus:  0.031510474448982834
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.54999999999998
+plus/minus:  0.02817427905022593
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.24999999999999
+plus/minus:  0.030112289849827095
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.14999999999999
+plus/minus:  0.023809871902217367
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.4
+plus/minus:  0.025553082005895095
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 66.5
+plus/minus:  0.02865309756378881
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.60000000000001
+plus/minus:  0.02941020231144288
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.54999999999998
+plus/minus:  0.029451485531293665
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.89999999999999
+plus/minus:  0.02472165043034142
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.75
+plus/minus:  0.02290742237791062
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.25000000000001
+plus/minus:  0.026433879775772606
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.80000000000001
+plus/minus:  0.029028262090590267
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.00000000000001
+plus/minus:  0.030983866769659335
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.89999999999999
+plus/minus:  0.0209465987692513
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.65
+plus/minus:  0.027951923010769764
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.05000000000001
+plus/minus:  0.02649886790034623
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.59999999999998
+plus/minus:  0.02708800472533922
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.24999999999999
+plus/minus:  0.02299456457513384
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.1
+plus/minus:  0.024762067765031256
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.0
+plus/minus:  0.03162277660168379
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.2
+plus/minus:  0.024004999479275146
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.44999999999997
+plus/minus:  0.0257485921945259
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.69999999999997
+plus/minus:  0.028143205219022232
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.15
+plus/minus:  0.02954505034688552
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.74999999999999
+plus/minus:  0.022017038856303996
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.05
+plus/minus:  0.02636266299143545
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.85
+plus/minus:  0.02577809147318707
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.89999999999998
+plus/minus:  0.02403247802454004
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.8
+plus/minus:  0.022703303724348138
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.25
+plus/minus:  0.02754541704167864
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.0
+plus/minus:  0.02557342370508885
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.1
+plus/minus:  0.027523807876091565
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.6
+plus/minus:  0.0294441844852256
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.55
+plus/minus:  0.028117432315202612
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.05000000000001
+plus/minus:  0.033606398200342745
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.05000000000001
+plus/minus:  0.029444693919278564
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.027313000567495322
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.65
+plus/minus:  0.025762569747600883
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.0
+plus/minus:  0.029933259094191533
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.84999999999998
+plus/minus:  0.027293039405679974
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.20000000000002
+plus/minus:  0.025842600488340955
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.8
+plus/minus:  0.025334561373743975
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.35
+plus/minus:  0.027519265978583073
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.49999999999999
+plus/minus:  0.02133072900770154
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.14999999999999
+plus/minus:  0.022788374228979124
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.6
+plus/minus:  0.023718347328597747
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.64999999999999
+plus/minus:  0.026931579975931604
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.3
+plus/minus:  0.030080558505453325
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.99999999999999
+plus/minus:  0.026981475126464084
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.44999999999999
+plus/minus:  0.020004749436071424
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.6
+plus/minus:  0.026255666055158455
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.55
+plus/minus:  0.02980251667225437
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.85000000000001
+plus/minus:  0.030946889989141073
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.44999999999999
+plus/minus:  0.023794747319524114
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.75000000000001
+plus/minus:  0.02680951323690902
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.64999999999999
+plus/minus:  0.024934113178535146
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.14999999999999
+plus/minus:  0.027315014186340813
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.94999999999999
+plus/minus:  0.024677722747449775
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.94999999999999
+plus/minus:  0.024400614746354236
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.94999999999999
+plus/minus:  0.022338084071826754
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.45
+plus/minus:  0.028117432315202612
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.4
+plus/minus:  0.024440949245068205
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.25
+plus/minus:  0.024753787588973127
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.19999999999999
+plus/minus:  0.01923122460999299
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.2
+plus/minus:  0.024162781296862328
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.6
+plus/minus:  0.029593242471888742
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.10000000000001
+plus/minus:  0.021678560837841615
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.80000000000001
+plus/minus:  0.019561186058110077
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.95000000000002
+plus/minus:  0.029363072046364624
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.44999999999999
+plus/minus:  0.029989831610064105
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.74999999999999
+plus/minus:  0.025352514668174436
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.85000000000001
+plus/minus:  0.02262100793510316
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.6
+plus/minus:  0.030733694864106396
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.3
+plus/minus:  0.026367404119480554
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.65
+plus/minus:  0.020806489372308824
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.14999999999999
+plus/minus:  0.026610336337596335
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.2
+plus/minus:  0.023491274976041636
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.75
+plus/minus:  0.01915071800220556
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.25000000000003
+plus/minus:  0.02363789330714563
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.60000000000001
+plus/minus:  0.027389048906451646
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.95
+plus/minus:  0.027484359188454804
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.028530685235374213
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.39999999999999
+plus/minus:  0.028708186985596983
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.85000000000001
+plus/minus:  0.030530476576693
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.025787593916455253
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.55000000000001
+plus/minus:  0.023413457668614433
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.40000000000002
+plus/minus:  0.023936582880603487
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.64999999999999
+plus/minus:  0.023309011133036083
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.95
+plus/minus:  0.03279313952643144
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.60000000000001
+plus/minus:  0.024733782565551917
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.8
+plus/minus:  0.02468683859873516
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.45
+plus/minus:  0.02506371879829488
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.30000000000001
+plus/minus:  0.02467468338196055
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.35000000000002
+plus/minus:  0.025395078263317085
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.02778488797889961
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.49999999999997
+plus/minus:  0.027000000000000003
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.60000000000001
+plus/minus:  0.02633932421304692
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.45
+plus/minus:  0.024103734150541904
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.19999999999999
+plus/minus:  0.020809613163151306
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.80000000000003
+plus/minus:  0.023104977818643326
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.14999999999999
+plus/minus:  0.025932797766534947
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.59999999999998
+plus/minus:  0.029273879141651176
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.49999999999999
+plus/minus:  0.02224859546128699
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.34999999999998
+plus/minus:  0.025940508861624127
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.60000000000001
+plus/minus:  0.027895519353473237
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.4
+plus/minus:  0.027621730575762265
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.6
+plus/minus:  0.027917019898262778
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.55
+plus/minus:  0.027199080866823423
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.95
+plus/minus:  0.02901361749248101
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 74.80000000000001
+plus/minus:  0.02668032983304367
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.35000000000001
+plus/minus:  0.028023383093409692
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.69999999999999
+plus/minus:  0.028817355881482258
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.6
+plus/minus:  0.02401166383239612
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.60000000000001
+plus/minus:  0.02003397114902585
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 76.05
+plus/minus:  0.024384216206390558
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 75.64999999999999
+plus/minus:  0.025046157389907137
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 75.2
+plus/minus:  0.025016794358990124
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 74.45
+plus/minus:  0.02576412234096089
+
+RESULTS FOR enzymes (laser), 10 ITERATIONS:
+average acc: 35.31666666666667
+plus/minus:  0.013095334198781557
+
+RESULTS FOR imdb (laser), 10 ITERATIONS:
+average acc: 68.61999999999999
+plus/minus:  0.012441157502419137
+
+RESULTS FOR proteins (laser), 10 ITERATIONS:
+average acc: 72.125
+plus/minus:  0.007802488483209201
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.60000000000001
+plus/minus:  0.029232858224949542
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.7
+plus/minus:  0.02941496217913598
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.64999999999999
+plus/minus:  0.024554225705568485
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.44999999999999
+plus/minus:  0.023121202390879246
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.64999999999999
+plus/minus:  0.027446493400797124
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.55
+plus/minus:  0.027331117796387323
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.05
+plus/minus:  0.027759502877393177
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.15
+plus/minus:  0.023539541201986074
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.3
+plus/minus:  0.023195689254686958
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.60000000000001
+plus/minus:  0.02560781130827076
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.34999999999998
+plus/minus:  0.028490524740692302
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.34999999999998
+plus/minus:  0.029767599836063374
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 71.29999999999998
+plus/minus:  0.018526737435393202
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.20000000000003
+plus/minus:  0.03225895224584952
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.84999999999998
+plus/minus:  0.029538280247841102
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.1
+plus/minus:  0.03287491444855788
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.60000000000001
+plus/minus:  0.02489497941352834
+
+RESULTS FOR enzymes (laser), 10 ITERATIONS:
+average acc: 26.283333333333335
+plus/minus:  0.01132210227828737
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.45
+plus/minus:  0.022569669913403693
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.35000000000001
+plus/minus:  0.027951923010769764
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.35000000000001
+plus/minus:  0.029026022807129466
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.10000000000001
+plus/minus:  0.02909914088078891
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 76.64999999999999
+plus/minus:  0.025101991952831155
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 76.5
+plus/minus:  0.021794494717703367
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 72.95000000000002
+plus/minus:  0.02943110599348927
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 73.1
+plus/minus:  0.027704873217540626
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 73.04999999999998
+plus/minus:  0.026940489973272568
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 73.4
+plus/minus:  0.028770818549356564
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 72.64999999999999
+plus/minus:  0.028546628522471796
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 74.35000000000001
+plus/minus:  0.032852853757322206
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 73.44999999999999
+plus/minus:  0.02663437628329223
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 76.55000000000001
+plus/minus:  0.026483768614002045
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 73.69999999999999
+plus/minus:  0.026253380734678727
+
+RESULTS FOR mutag (laser), 10 ITERATIONS:
+average acc: 73.69999999999999
+plus/minus:  0.02265480081572116
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.85
+plus/minus:  0.02745377933910011
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.45
+plus/minus:  0.027316478543179756
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.15
+plus/minus:  0.02685721504549569
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.69999999999999
+plus/minus:  0.032815240361758743
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.49999999999997
+plus/minus:  0.02718455443813637
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.9
+plus/minus:  0.029372776511593174
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.99999999999999
+plus/minus:  0.02814249455894058
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.1
+plus/minus:  0.024330228112370837
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.1
+plus/minus:  0.0289406288805202
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.55
+plus/minus:  0.026430853183353732
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.29999999999998
+plus/minus:  0.023614402384985314
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.1
+plus/minus:  0.0256741114744016
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.2
+plus/minus:  0.028047103237232897
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.6
+plus/minus:  0.029088829471121725
+
+average acc: 76.2
+plus/minus:  0.025617181734140855
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.55
+plus/minus:  0.024095435252346035
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.39999999999999
+plus/minus:  0.022657449106199053
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.60000000000001
+plus/minus:  0.02526974475533934
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.94999999999999
+plus/minus:  0.025490978796429142
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.6
+plus/minus:  0.02863145123810527
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.74999999999999
+plus/minus:  0.030606371885605783
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.10000000000001
+plus/minus:  0.027494726767145733
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.10000000000001
+plus/minus:  0.02531323764357298
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.35
+plus/minus:  0.022594468349576187
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.5
+plus/minus:  0.02393741840717165
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.00000000000001
+plus/minus:  0.029154759474226504
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.60000000000001
+plus/minus:  0.030168858115613196
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.9
+plus/minus:  0.02931143121718897
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.7
+plus/minus:  0.024454856368418928
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.6
+plus/minus:  0.02236425719759098
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.15
+plus/minus:  0.026805036840116446
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.15
+plus/minus:  0.026961268516151094
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.74999999999999
+plus/minus:  0.028368115905008567
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.94999999999999
+plus/minus:  0.02747708135883431
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.19999999999999
+plus/minus:  0.024662522174343803
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.19999999999999
+plus/minus:  0.027853904573685896
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.35
+plus/minus:  0.03126835460973282
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.89999999999998
+plus/minus:  0.027516540480227523
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.4
+plus/minus:  0.026520935126801242
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.99999999999999
+plus/minus:  0.025179356624028336
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.14999999999999
+plus/minus:  0.025622451092742866
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.89999999999998
+plus/minus:  0.024322006496175434
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.35000000000001
+plus/minus:  0.025638057648737743
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.54999999999998
+plus/minus:  0.022569669913403697
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.5
+plus/minus:  0.02282542442102666
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.39999999999999
+plus/minus:  0.03178301433155766
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.74999999999999
+plus/minus:  0.03210529551335729
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.29999999999998
+plus/minus:  0.024964775184247102
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.39999999999999
+plus/minus:  0.026917652200739946
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.5
+plus/minus:  0.02816025568065745
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.69999999999999
+plus/minus:  0.025597656142701812
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.19999999999999
+plus/minus:  0.026157981573508304
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.74999999999999
+plus/minus:  0.033056769352131185
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.5
+plus/minus:  0.023345235059857503
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.35000000000001
+plus/minus:  0.024789312213129272
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.39999999999998
+plus/minus:  0.02309458811063752
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.25000000000003
+plus/minus:  0.025391927851189246
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.55
+plus/minus:  0.029171732893333573
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.79999999999998
+plus/minus:  0.030010664771044304
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.55
+plus/minus:  0.02331930530697688
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.02584569596664017
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.19999999999999
+plus/minus:  0.027405109012737017
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.9
+plus/minus:  0.029711277320236505
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.44999999999999
+plus/minus:  0.02678413709642332
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.05000000000001
+plus/minus:  0.029586990384288837
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.39999999999999
+plus/minus:  0.026187019685332658
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.85
+plus/minus:  0.0290122387967561
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.1
+plus/minus:  0.025392124763398593
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.75
+plus/minus:  0.030244834269673226
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.10000000000001
+plus/minus:  0.024264377181374343
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.74999999999999
+plus/minus:  0.02376446927663229
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.49999999999997
+plus/minus:  0.025039968051097827
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.15
+plus/minus:  0.027315014186340813
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.1
+plus/minus:  0.024834653208772615
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.8
+plus/minus:  0.03363093813737583
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.00000000000001
+plus/minus:  0.02863564212655271
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.9
+plus/minus:  0.03087976683849799
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.29999999999998
+plus/minus:  0.021569422801734867
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.65
+plus/minus:  0.026414200726124576
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.5
+plus/minus:  0.025039968051097827
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.69999999999999
+plus/minus:  0.023816800792717734
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.25
+plus/minus:  0.020018741219167607
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.7
+plus/minus:  0.02678133678515694
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.2
+plus/minus:  0.024137936945812084
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.64999999999999
+plus/minus:  0.02558339305096179
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.55
+plus/minus:  0.02598056966273065
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.35
+plus/minus:  0.024052234823400506
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.7
+plus/minus:  0.02313525448314758
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.0
+plus/minus:  0.02445403852127497
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.25
+plus/minus:  0.022643983748448504
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.2
+plus/minus:  0.020431348462595415
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.2
+plus/minus:  0.03058496362593881
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.25
+plus/minus:  0.024222923027578648
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.3
+plus/minus:  0.028726990792632634
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.89999999999999
+plus/minus:  0.020008997975910738
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.90000000000002
+plus/minus:  0.032856658381521395
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.94999999999999
+plus/minus:  0.029593749340021108
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.54999999999998
+plus/minus:  0.027960507863771005
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.39999999999999
+plus/minus:  0.028392956873140206
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.25
+plus/minus:  0.02729010809799038
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.25
+plus/minus:  0.02183460556089805
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.39999999999999
+plus/minus:  0.022692730113408565
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.85
+plus/minus:  0.025894207846543598
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.25
+plus/minus:  0.022332711434127298
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.35
+plus/minus:  0.030836828630713638
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.3
+plus/minus:  0.025314817795117545
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.5
+plus/minus:  0.022338307903688674
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.45
+plus/minus:  0.021442714380413685
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.3
+plus/minus:  0.02568345771114162
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 68.60000000000001
+plus/minus:  0.02623280389131135
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.69999999999999
+plus/minus:  0.0235465496410833
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.64999999999999
+plus/minus:  0.022416734820218574
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.15
+plus/minus:  0.026595300336713628
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.6
+plus/minus:  0.02518253362948216
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.25000000000003
+plus/minus:  0.029030156733989572
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.30000000000001
+plus/minus:  0.02935370504723382
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.35
+plus/minus:  0.02904668655802241
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.14999999999999
+plus/minus:  0.025070101714991112
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.25000000000001
+plus/minus:  0.02812027738127773
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.35
+plus/minus:  0.027504726866486057
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 70.70000000000002
+plus/minus:  0.026684077649414828
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.79999999999998
+plus/minus:  0.022694492724006855
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.95000000000002
+plus/minus:  0.02714019159843939
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.00000000000001
+plus/minus:  0.02912043955712208
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.1
+plus/minus:  0.024198347050986772
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.89999999999999
+plus/minus:  0.02147463620180794
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.4
+plus/minus:  0.028596503282744202
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.64999999999998
+plus/minus:  0.026078918689240164
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.85000000000002
+plus/minus:  0.03003514607921859
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.65
+plus/minus:  0.02343736333293487
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.24999999999999
+plus/minus:  0.029508473359359
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.95
+plus/minus:  0.023430535631948322
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.24999999999999
+plus/minus:  0.02146508793366568
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.39999999999999
+plus/minus:  0.02909570415026933
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.64999999999999
+plus/minus:  0.02723435330607283
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.45
+plus/minus:  0.029815935336661843
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.15000000000002
+plus/minus:  0.02470850056154764
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.64999999999999
+plus/minus:  0.027322335185704753
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.30000000000001
+plus/minus:  0.024034142381204285
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.65
+plus/minus:  0.028236678274896287
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.95
+plus/minus:  0.02752798575994982
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.25000000000001
+plus/minus:  0.024305349205473267
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.15
+plus/minus:  0.026239474080095433
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.10000000000001
+plus/minus:  0.02833301960610623
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.65
+plus/minus:  0.027278379717277933
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.69999999999999
+plus/minus:  0.02751072518128157
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.5
+plus/minus:  0.03235737937472687
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.85
+plus/minus:  0.02182910900609551
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.65
+plus/minus:  0.03086276073198897
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.44999999999999
+plus/minus:  0.02453955989825408
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.0
+plus/minus:  0.02449489742783178
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.85
+plus/minus:  0.02164509182239706
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.35
+plus/minus:  0.018507025692963204
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.45
+plus/minus:  0.0308510939838444
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.55
+plus/minus:  0.029701683453972776
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.45000000000002
+plus/minus:  0.022480880765663964
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.69999999999999
+plus/minus:  0.024577225229874912
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.75
+plus/minus:  0.030834234221073176
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.20000000000002
+plus/minus:  0.029668838871786
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.10000000000001
+plus/minus:  0.03283230116820933
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.99999999999999
+plus/minus:  0.022226110770892867
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 81.0
+plus/minus:  0.025059928172283336
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.89999999999999
+plus/minus:  0.027224253892439366
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.85000000000001
+plus/minus:  0.023505531263938707
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.1
+plus/minus:  0.02374784200722247
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.1
+plus/minus:  0.028163096420670792
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.85
+plus/minus:  0.02787310531677445
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.55000000000001
+plus/minus:  0.022167318286161725
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.69999999999999
+plus/minus:  0.02804353757998445
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.29999999999998
+plus/minus:  0.023799999999999995
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.74999999999999
+plus/minus:  0.01909842925478428
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.0
+plus/minus:  0.018220867158288596
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 47.15
+plus/minus:  0.007251896303726357
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 46.76
+plus/minus:  0.0065429045537895485
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 47.449999999999996
+plus/minus:  0.007991870869827665
+
+RESULTS FOR imdb (goku), 10 ITERATIONS:
+average acc: 48.19
+plus/minus:  0.007598394567275379
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.58035714285714
+plus/minus:  0.008978627542727251
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.21428571428572
+plus/minus:  0.008261201424707657
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.85714285714285
+plus/minus:  0.008643595009825342
+
+RESULTS FOR proteins (goku), 10 ITERATIONS:
+average acc: 71.56250000000001
+plus/minus:  0.008289157997415806
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.8
+plus/minus:  0.01946894963782073
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.55000000000001
+plus/minus:  0.020312311537587245
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 72.04999999999998
+plus/minus:  0.0211232099833335
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.49999999999999
+plus/minus:  0.020663978319771823
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 74.04999999999998
+plus/minus:  0.020673412877413345
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 69.15
+plus/minus:  0.019081666593880105
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 71.60000000000001
+plus/minus:  0.020682359633272022
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 78.3
+plus/minus:  0.01924681791881453
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.45
+plus/minus:  0.017994165721144175
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.65
+plus/minus:  0.01726586227212531
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.5
+plus/minus:  0.016583123951777
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.24999999999999
+plus/minus:  0.019202864369671523
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 75.64999999999999
+plus/minus:  0.018146900561803934
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.34999999999998
+plus/minus:  0.0198219575218998
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.85000000000001
+plus/minus:  0.018721912295489477
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 79.55
+plus/minus:  0.017210171411116162
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 77.1
+plus/minus:  0.019399999999999997
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.85
+plus/minus:  0.020330027053597346
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 76.54999999999998
+plus/minus:  0.020034719863277352
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 80.45000000000003
+plus/minus:  0.01721017141111616
+
+RESULTS FOR mutag (goku), 10 ITERATIONS:
+average acc: 73.29999999999998
+plus/minus:  0.02150441815069638
+

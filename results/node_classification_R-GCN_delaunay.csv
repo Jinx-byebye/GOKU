@@ -1,0 +1,3 @@
+,dataset,rewiring,num_iterations,borf_batch_add,borf_batch_remove,avg_accuracy,ci,run_duration,rewiring_duration
+0,chameleon,delaunay,50,4,2,0.4236842105263158,0.007938475331051766,269.8840456008911,18.34247374534607
+0,wisconsin,delaunay,50,4,2,0.8098039215686275,0.02775739352029237,83.89768290519714,6.845696449279785
