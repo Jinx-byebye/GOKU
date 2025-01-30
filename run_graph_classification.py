@@ -10,10 +10,8 @@ import numpy as np
 import pandas as pd
 from hyperparams import get_args_from_input
 from preprocessing import rewiring, sdrf, fosr, digl, borf, goku_rewiring, delaunay_rewiring, laser_rewiring
-import nni
-from nni.utils import merge_parameter
 from preprocessing.gtr import PrecomputeGTREdges, AddPrecomputedGTREdges, AddGTREdges
-import torch_geometric.transforms as T
+
 
 
 
@@ -86,10 +84,6 @@ hyperparams = {
 results = []
 args = default_args
 args += get_args_from_input()
-
-optimized_params = nni.get_next_parameter()
-args = merge_parameter(args, optimized_params)
-
 
 
 
@@ -185,20 +179,16 @@ for key in datasets:
                                                                                 )
 
                 pbar.update(1)
-                # torch.save(dataset[i].edge_index, f"visualization/{args.dataset}/{args.rewiring}_graph{i}_edge_index.pt")
-                # torch.save(dataset[i].edge_weight, f"visualization/{args.dataset}/{args.rewiring}_graph{i}_edge_weight.pt")
         elif args.rewiring == 'delaunay':
             for i in range(len(dataset)):
                 dataset[i].edge_index = delaunay_rewiring.dalaunay(dataset[i].x).long()
                 dataset[i].edge_type = torch.zeros_like(dataset[i].edge_index[0], dtype=torch.int64)
                 pbar.update(1)
-                # torch.save(dataset[i].edge_index, f"visualization/{args.dataset}/{args.rewiring}_graph{i}_edge_index.pt")
+
         elif args.rewiring == 'gtr':
             for i in range(len(dataset)):
-                # torch.save(dataset[i].edge_index, f"visualization/{args.dataset}/none_graph{i}_edge_index.pt")
                 dataset[i] = rewiring_transform(dataset[i])
                 pbar.update(1)
-                # torch.save(dataset[i].edge_index, f"visualization/{args.dataset}/{args.rewiring}_graph{i}_edge_index.pt")
         elif args.rewiring == 'laser':
             for i in range(len(dataset)):
                 dataset[i].edge_index = laser_rewiring.laser(dataset[i].edge_index, p=0.15, max_k=3).long()
@@ -215,7 +205,6 @@ for key in datasets:
     start = time.time()
     for trial in range(args.num_trials):
         train_acc, validation_acc, test_acc, energy = Experiment(args=args, dataset=dataset).run()
-        nni.report_intermediate_result(test_acc)
         train_accuracies.append(train_acc)
         validation_accuracies.append(validation_acc)
         test_accuracies.append(test_acc)
@@ -230,7 +219,6 @@ for key in datasets:
     train_ci = 2 * np.std(train_accuracies)/(args.num_trials ** 0.5)
     val_ci = 2 * np.std(validation_accuracies)/(args.num_trials ** 0.5)
     test_ci = 2 * np.std(test_accuracies)/(args.num_trials ** 0.5)
-    nni.report_final_result(test_mean)
     energy_ci = 200 * np.std(energies)/(args.num_trials ** 0.5)
     log_to_file(f"RESULTS FOR {key} ({args.rewiring}), {args.num_iterations} ITERATIONS:\n")
     log_to_file(f"average acc: {test_mean}\n")

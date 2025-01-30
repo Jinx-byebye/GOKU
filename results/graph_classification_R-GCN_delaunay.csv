@@ -1,3 +1,0 @@
-,dataset,rewiring,layer_type,num_iterations,borf_batch_add,borf_batch_remove,sdrf_remove_edges,alpha,eps,test_mean,test_ci,val_mean,val_ci,train_mean,train_ci,energy_mean,energy_ci,last_layer_fa,rewiring_duration,run_duration
-0,mutag,delaunay,R-GCN,10,4,2,False,0.1,0.001,79.0,0.03781534080237808,86.66666666666666,0.029814239699997188,83.16666666666667,0.02028409338482853,0.0,0.0,False,308.59493374824524,113.68497610092163
-0,mutag,delaunay,R-GCN,10,4,2,False,0.1,0.001,81.1,0.01792093747547823,85.55555555555554,0.014315665251916802,82.88666666666664,0.0066507944387619354,0.0,0.0,False,298.30375576019287,688.9625155925751

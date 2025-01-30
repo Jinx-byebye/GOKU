@@ -1,10 +1,4 @@
-import torch
-import math
 from scipy.optimize import fsolve
-from .pagerank import add_edges_based_on_lowest_degree_pagerank
-from .closeness import add_edges_based_on_lowest_degree_closeness
-from .edge_addition import select_edges_to_add
-
 import torch
 import math
 
@@ -300,10 +294,6 @@ def recover_latent_graph(edge_index, num_nodes, k_guess, step_size, metric='degr
                 # Now we need to find the correct position for sorted_deg[0] and sorted_deg[1]
                 update_position(sorted_deg, node_id, 0)  # Correct position for updated node_u
                 update_position(sorted_deg, node_id, 1)
-    elif metric == 'closeness':
-        edge_index = add_edges_based_on_lowest_degree_closeness(edge_index, num_edges_to_add, num_nodes)
-    else:
-        edge_index = add_edges_based_on_lowest_degree_pagerank(edge_index, num_edges_to_add, num_nodes)
     print(f'# of edges of latent graph: {edge_index.shape[1]}')
     return edge_index
 

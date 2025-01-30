@@ -12,8 +12,7 @@ from hyperparams import get_args_from_input
 from preprocessing import rewiring, sdrf, fosr, borf, goku_rewiring, delaunay_rewiring, laser_rewiring
 from preprocessing.gtr import PrecomputeGTREdges, AddPrecomputedGTREdges, AddGTREdges
 
-import nni
-from nni.utils import merge_parameter
+
 
 largest_cc = LargestConnectedComponents()
 cornell = WebKB(root="data", name="Cornell")
@@ -67,8 +66,6 @@ results = []
 args = default_args
 args += get_args_from_input()
 
-optimized_params = nni.get_next_parameter()
-args = merge_parameter(args, optimized_params)
 
 if args.rewiring == 'gtr':
     num_edges_to_add = 10
@@ -144,14 +141,12 @@ for key in datasets:
             train_acc, validation_acc, test_acc = Experiment(args=args, dataset=dataset).run()
             test_accs.append(test_acc)
         test_acc = max(test_accs)
-        nni.report_intermediate_result(test_acc)
         accuracies.append(test_acc)
     end = time.time()
     run_duration = end - start
 
     log_to_file(f"RESULTS FOR {key} ({args.rewiring}):\n")
     log_to_file(f"average acc: {np.mean(accuracies)}\n")
-    nni.report_final_result(np.mean(accuracies))
     log_to_file(f"plus/minus:  {2 * np.std(accuracies)/(args.num_trials ** 0.5)}\n\n")
     results.append({
         "dataset": key,
