@@ -4,12 +4,23 @@ from scipy.sparse.linalg import cg
 from numba import njit, prange
 import torch
 from torch.utils.data import WeightedRandomSampler
-from torch_geometric.utils import to_undirected, undirected
+from torch_geometric.utils import to_undirected
 from typing import Optional, Tuple
 
 
 # torch_scatter/utils.py
 def broadcast(src: torch.Tensor, other: torch.Tensor, dim: int):
+    """
+    Broadcast a tensor to match the shape of another tensor along a specified dimension.
+    
+    Args:
+        src: Source tensor to broadcast
+        other: Target tensor whose shape will be matched
+        dim: Dimension along which to broadcast
+        
+    Returns:
+        Broadcasted tensor with shape matching other
+    """
     if dim < 0:
         dim = other.dim() + dim
     if src.dim() == 1:
@@ -29,6 +40,19 @@ def scatter_sum_raw(
     out: Optional[torch.Tensor] = None,
     dim_size: Optional[int] = None,
 ) -> torch.Tensor:
+    """
+    Sums all values from src tensor into out at the indices specified in index.
+    
+    Args:
+        src: Source tensor containing values to scatter
+        index: Indices indicating where to scatter the values
+        dim: Dimension along which to scatter
+        out: Optional output tensor
+        dim_size: Size of the output dimension
+        
+    Returns:
+        Tensor with scattered sum values
+    """
     index = broadcast(index, src, dim)
     if out is None:
         size = list(src.size())
@@ -52,252 +76,286 @@ def scatter_add_raw(
     out: Optional[torch.Tensor] = None,
     dim_size: Optional[int] = None,
 ) -> torch.Tensor:
+    """
+    Alias for scatter_sum_raw.
+    """
     return scatter_sum_raw(src, index, dim, out, dim_size)
 
 
 @njit(nopython=True)
-def Mtrx_Elist(A):
+def adjacency_to_edge_list(adjacency_matrix):
     """
     Convert an adjacency matrix to an edge list.
 
     Args:
-        A (ndarray): Adjacency matrix.
+        adjacency_matrix: Adjacency matrix representation of a graph
 
     Returns:
-        tuple: Edge list and corresponding weights.
+        tuple: Edge list and corresponding weights
     """
-    j, i = np.nonzero(np.triu(A))  # Identify non-zero edges in the upper triangle
-    elist = np.vstack((i, j))
-    weights = A[np.triu(A) != 0]  # Extract weights corresponding to edges
+    # Get non-zero edges from the upper triangle (undirected graph)
+    j, i = np.nonzero(np.triu(adjacency_matrix))
+    edge_list = np.vstack((i, j))
+    # Extract edge weights from the adjacency matrix
+    weights = adjacency_matrix[np.triu(adjacency_matrix) != 0]
 
-    return elist.transpose(), weights
+    return edge_list.transpose(), weights
 
 @njit(nopython=True)
-def Elist_Mtrx(E_list, weights):
+def edge_list_to_adjacency(edge_list, weights):
     """
     Convert an edge list to an adjacency matrix.
 
     Args:
-        E_list (ndarray): Edge list.
-        weights (ndarray): Corresponding edge weights.
+        edge_list: List of edges where each row is (source, target)
+        weights: Corresponding edge weights
 
     Returns:
-        ndarray: Adjacency matrix.
+        ndarray: Adjacency matrix
     """
-    n = np.max(E_list) + 1  # Determine number of nodes
-    A = np.zeros(shape=(n, n))
+    n = np.max(edge_list) + 1  # Determine number of nodes
+    adjacency_matrix = np.zeros(shape=(n, n))
 
-    for i in range(np.shape(E_list)[0]):
-        n1, n2 = E_list[i, :]
+    # Populate the adjacency matrix (symmetrically for undirected graph)
+    for i in range(np.shape(edge_list)[0]):
+        n1, n2 = edge_list[i, :]
         w = weights[i]
-        A[n1, n2], A[n2, n1] = w, w  # Fill adjacency matrix symmetrically
+        adjacency_matrix[n1, n2] = w
+        adjacency_matrix[n2, n1] = w  # Ensure symmetry
 
-    return A
+    return adjacency_matrix
 
 
-def Elist_Mtrx_s(E_list, weights):
+def edge_list_to_sparse_adjacency(edge_list, weights):
     """
     Convert an edge list to a sparse adjacency matrix.
 
     Args:
-        E_list (ndarray): Edge list.
-        weights (ndarray): Corresponding edge weights.
+        edge_list: List of edges where each row is (source, target)
+        weights: Corresponding edge weights
 
     Returns:
-        csr_matrix: Sparse adjacency matrix in CSR format.
+        csr_matrix: Sparse adjacency matrix in CSR format
     """
-    n = np.max(E_list) + 1  # Determine number of nodes
-    A = sparse.csr_matrix((weights, (E_list[:, 0], E_list[:, 1])), shape=(n, n))
-    A = A + A.transpose()  # Ensure the matrix is symmetric
+    n = np.max(edge_list) + 1  # Determine number of nodes
+    # Create sparse matrix from COO format
+    adjacency_matrix = sparse.csr_matrix((weights, (edge_list[:, 0], edge_list[:, 1])), shape=(n, n))
+    # Make it symmetric (undirected)
+    adjacency_matrix = adjacency_matrix + adjacency_matrix.transpose()
 
-    return A
+    return adjacency_matrix
 
 @njit(nopython=True)
-def Lap(A):
+def compute_laplacian(adjacency_matrix):
     """
     Compute the Laplacian matrix from an adjacency matrix.
 
     Args:
-        A (ndarray): Adjacency matrix.
+        adjacency_matrix: Adjacency matrix of a graph
 
     Returns:
-        ndarray: Laplacian matrix.
+        ndarray: Laplacian matrix (L = D - A)
     """
-    L = np.diag(np.sum(abs(A), 1)) - A  # Calculate Laplacian as D - A
-    return L
+    # Compute diagonal degree matrix
+    degree_matrix = np.diag(np.sum(abs(adjacency_matrix), 1))
+    # Laplacian is D - A
+    laplacian = degree_matrix - adjacency_matrix
+    return laplacian
 
 
-def Lap_s(A):
+def compute_sparse_laplacian(adjacency_matrix):
     """
     Compute the Laplacian matrix from a sparse adjacency matrix.
 
     Args:
-        A (csr_matrix): Sparse adjacency matrix.
+        adjacency_matrix: Sparse adjacency matrix in CSR format
 
     Returns:
-        csr_matrix: Laplacian matrix in sparse format.
+        csr_matrix: Laplacian matrix in sparse format
     """
-    L = sparse.csgraph.laplacian(A)  # Directly compute Laplacian for sparse matrices
-    return L
+    # Use scipy's built-in Laplacian computation for sparse graphs
+    laplacian = sparse.csgraph.laplacian(adjacency_matrix)
+    return laplacian
 
 
-def sVIM(E_list):
+def create_signed_incidence_matrix(edge_list):
     """
     Compute the signed-edge vertex incidence matrix.
 
     Args:
-        E_list (ndarray): Edge list.
+        edge_list: List of edges where each row is (source, target)
 
     Returns:
-        csr_matrix: Sparse vertex incidence matrix.
+        csr_matrix: Sparse vertex incidence matrix (B)
     """
-    m = np.shape(E_list)[0]  # Number of edges
-    E_list = E_list.transpose()  # Transpose to make rows correspond to edges
+    m = np.shape(edge_list)[0]  # Number of edges
+    edge_list = edge_list.transpose()  # Transpose to make rows correspond to edges
 
-    data = [1] * m + [-1] * m  # Create data for incidence matrix
-    i = list(range(0, m)) + list(range(0, m))  # Row indices
-    j = E_list[0, :].tolist() + E_list[1, :].tolist()  # Column indices
+    # Create incidence matrix data: +1 for source nodes, -1 for target nodes
+    data = [1] * m + [-1] * m
+    row_indices = list(range(0, m)) + list(range(0, m))
+    col_indices = edge_list[0, :].tolist() + edge_list[1, :].tolist()
 
-    B = sparse.csr_matrix((data, (i, j)))  # Create sparse matrix in CSR format
+    # Build sparse matrix in CSR format
+    incidence_matrix = sparse.csr_matrix((data, (row_indices, col_indices)))
 
-    return B
+    return incidence_matrix
 
 
-def WDiag(weights):
+def create_weight_diagonal_matrix(weights):
     """
     Compute the diagonal weights matrix.
 
     Args:
-        weights (ndarray): Edge weights.
+        weights: Edge weights vector
 
     Returns:
-        dia_matrix: Diagonal matrix of square root of weights.
+        dia_matrix: Diagonal matrix of square root of weights
     """
     m = len(weights)
-    weights_sqrt = np.sqrt(weights)  # Element-wise square root of weights
-    W = sparse.dia_matrix((weights_sqrt, [0]), shape=(m, m))  # Diagonal sparse matrix
+    # Element-wise square root of weights for the diagonal
+    weights_sqrt = np.sqrt(weights)
+    # Create diagonal sparse matrix
+    weight_matrix = sparse.dia_matrix((weights_sqrt, [0]), shape=(m, m))
 
-    return W
+    return weight_matrix
 
 
-def compute_effective_resistance(E_list, weights, epsilon, type='kts', tol=1e-10, precon=False):
+def compute_effective_resistance(edge_list, weights, epsilon, method='kts', tol=1e-10, precon=False):
     """
     Approximate effective resistance using various methods.
 
     Args:
-        E_list (ndarray): Edge list.
-        weights (ndarray): List of edge weights.
-        epsilon (float): Accuracy control parameter.
-        type (str): Type of calculation ('ext', 'spl', 'kts').
-        tol (float): Tolerance for convergence (default: 1e-10).
-        precon (bool or sparse.LinearOperator): Preconditioner for the solver (default: False).
+        edge_list: List of edges where each row is (source, target)
+        weights: List of edge weights
+        epsilon: Accuracy control parameter
+        method: Type of calculation ('ext' for exact, 'spl' for splicing, 'kts' for Koutis method)
+        tol: Tolerance for convergence
+        precon: Preconditioner for the solver
 
     Returns:
-        ndarray: Effective resistance values.
+        ndarray: Effective resistance values for each edge
     """
-    m = np.shape(E_list)[0]  # Number of edges
-    n = np.max(E_list) + 1  # Number of nodes
+    m = np.shape(edge_list)[0]  # Number of edges
+    n = np.max(edge_list) + 1  # Number of nodes
 
-    A = Elist_Mtrx_s(E_list, weights)  # Get sparse adjacency matrix
-    L = Lap_s(A)  # Compute sparse Laplacian
-    B = sVIM(E_list)  # Compute vertex incidence matrix
-    W = WDiag(weights)  # Compute diagonal weight matrix
-    scale = np.ceil(np.log2(n)) / epsilon  # Calculate scale for projection
+    # Create graph representation matrices
+    adjacency_matrix = edge_list_to_sparse_adjacency(edge_list, weights)
+    laplacian = compute_sparse_laplacian(adjacency_matrix)
+    incidence_matrix = create_signed_incidence_matrix(edge_list)
+    weight_matrix = create_weight_diagonal_matrix(weights)
+    
+    # Scale factor based on graph size and accuracy parameter
+    scale = np.ceil(np.log2(n)) / epsilon
 
+    # Setup preconditioner if requested
     if precon:
-        M_inverse = sparse.linalg.spilu(L)  # Compute incomplete LU for preconditioning
+        M_inverse = sparse.linalg.spilu(laplacian)
         M = sparse.linalg.LinearOperator((n, n), M_inverse.solve)
-
     else:
-        M = None  # No preconditioner
+        M = None
 
-    if type == 'ext':
-        effR = np.zeros(shape=(1, m))  # Initialize effective resistance array
+    if method == 'ext':  # Exact method - solve for each edge separately
+        effective_resistance = np.zeros(shape=(1, m))
         for i in prange(m):
-            Br = B[i, :].toarray()  # Row vector for the i-th edge
-            Z = cg(L, Br.transpose(), tol=tol, M=M)[0]  # Solve for Z
-            R_eff = Br @ Z  # Calculate effective resistance
-            effR[:, i] = R_eff[0]
+            # Extract the row corresponding to edge i
+            Br = incidence_matrix[i, :].toarray()
+            # Solve Laplacian system
+            Z = cg(laplacian, Br.transpose(), tol=tol, M=M)[0]
+            # Calculate effective resistance
+            R_eff = Br @ Z
+            effective_resistance[:, i] = R_eff[0]
 
-        return effR[0]
+        return effective_resistance[0]
 
-    if type == 'spl':
-        Q1 = sparse.random(int(scale), m, 1, format='csr') > 0.5  # Generate random matrix Q1
-        Q2 = sparse.random(int(scale), m, 1, format='csr') > 0  # Generate random matrix Q2
-        Q_not = Q1 - Q2  # Logical NOT for the random matrices
-        Q = Q1 + (-1 * Q_not)  # Combine to form a matrix of 1s and -1s
-        Q = Q / np.sqrt(scale)  # Normalize Q
+    if method == 'spl':  # Splicing method - use random projections
+        # Generate random projection matrices
+        Q1 = sparse.random(int(scale), m, 1, format='csr') > 0.5
+        Q2 = sparse.random(int(scale), m, 1, format='csr') > 0
+        Q_not = Q1 - Q2
+        Q = Q1 + (-1 * Q_not)  # Convert to {-1, 1} matrix
+        Q = Q / np.sqrt(scale)  # Normalize
 
-        SYS = Q @ W @ B  # Create system for projection
-        Z = np.zeros(shape=(int(scale), n))  # Initialize solution matrix
+        # Create projected system
+        SYS = Q @ weight_matrix @ incidence_matrix
+        Z = np.zeros(shape=(int(scale), n))
 
+        # Solve for each projection
         for i in prange(int(scale)):
-            SYSr = SYS[i, :].toarray()  # Row system for projection
-            Z[i, :] = cg(L, SYSr.transpose(), tol=tol, M=M)[0]  # Solve for Z
+            SYSr = SYS[i, :].toarray()
+            Z[i, :] = cg(laplacian, SYSr.transpose(), tol=tol, M=M)[0]
 
-        effR = np.sum(np.square(Z[:, E_list[:, 0]] - Z[:, E_list[:, 1]]), axis=0)  # Calculate effective resistance
-        return effR
+        # Calculate effective resistance using projection results
+        effective_resistance = np.sum(np.square(Z[:, edge_list[:, 0]] - Z[:, edge_list[:, 1]]), axis=0)
+        return effective_resistance
 
-    if type == 'kts':
-        effR_res = np.zeros(shape=(1, m))  # Initialize results
+    if method == 'kts':  # Koutis method
+        effective_resistance_result = np.zeros(shape=(1, m))
 
+        # Multiple random trials for approximation
         for i in prange(int(scale)):
-            ons1 = sparse.random(1, m, 1, format='csr') > 0.5  # Random row vector
-            ons2 = sparse.random(1, m, 1, format='csr') > 0  # Another random row vector
-            ons_not = ons1 - ons2  # Logical NOT operation
-            ons = ons1 + (-1 * ons_not)  # Create matrix of 1s and -1s
+            # Create random {-1, 1} vector
+            ons1 = sparse.random(1, m, 1, format='csr') > 0.5
+            ons2 = sparse.random(1, m, 1, format='csr') > 0
+            ons_not = ons1 - ons2
+            ons = ons1 + (-1 * ons_not)
             ons = ons / np.sqrt(scale)  # Normalize
 
-            b = ons @ W @ B  # Compute b vector for current iteration
-            b = b.toarray()  # Convert to dense format
+            # Create and solve the system
+            b = ons @ weight_matrix @ incidence_matrix
+            b = b.toarray()
+            Z = sparse.linalg.cg(laplacian, b.transpose(), tol=tol, M=M)[0]
+            Z = Z.transpose()
 
-            Z = sparse.linalg.cg(L, b.transpose(), tol=tol, M=M)[0]  # Solve for Z
-            Z = Z.transpose()  # Transpose for effective resistance calculation
+            # Accumulate squared differences across edges
+            effective_resistance_result = effective_resistance_result + np.abs(np.square(Z[edge_list[:, 0]] - Z[edge_list[:, 1]]))
 
-            effR_res = effR_res + np.abs(np.square(Z[E_list[:, 0]] - Z[E_list[:, 1]]))  # Accumulate results
-
-        return effR_res[0]
+        return effective_resistance_result[0]
 
 def compute_angular_similarity(edge_index, node_features):
     """
     Compute the angular similarity for each edge based on node features.
 
     Args:
-        edge_index (torch.Tensor): A tensor of shape (2, E) representing the edges.
-        node_features (torch.Tensor): A tensor of shape (n, f) representing node features.
+        edge_index: A tensor of shape (2, E) representing the edges
+        node_features: A tensor of shape (n, f) representing node features
 
     Returns:
-        torch.Tensor: A tensor of shape (E,) containing the angular similarities for each edge.
+        torch.Tensor: A tensor of shape (E,) containing the angular similarities for each edge
     """
-    # Extract source and target node indices from edge_index
-    src_nodes = edge_index[0]  # Indices of source nodes
-    dst_nodes = edge_index[1]  # Indices of destination nodes
+    # Extract features for both ends of each edge
+    src_nodes = edge_index[0]
+    dst_nodes = edge_index[1]
+    src_features = node_features[src_nodes]
+    dst_features = node_features[dst_nodes]
 
-    # Gather the node features for source and destination nodes
-    src_features = node_features[src_nodes]  # Shape: (E, f)
-    dst_features = node_features[dst_nodes]  # Shape: (E, f)
+    # Compute cosine similarity components
+    dot_products = (src_features * dst_features).sum(dim=1)
+    src_norms = torch.norm(src_features, dim=1)
+    dst_norms = torch.norm(dst_features, dim=1)
 
-    # Compute the dot product and norms
-    dot_products = (src_features * dst_features).sum(dim=1)  # Shape: (E,)
-    src_norms = torch.norm(src_features, dim=1)  # Shape: (E,)
-    dst_norms = torch.norm(dst_features, dim=1)  # Shape: (E,)
-
-    # Compute cosine similarity
+    # Calculate cosine similarity with numerical stability
     cos_sim = dot_products / (src_norms * dst_norms + 1e-5)
+    cos_sim = torch.clamp(cos_sim, -1.0, 1.0)  # Ensure values in [-1, 1]
 
-    # Clamp values to avoid numerical errors
-    cos_sim = torch.clamp(cos_sim, -1.0, 1.0)
-
-    # Compute angular similarity
-    # angular_sims = 1 - (torch.acos(cos_sim) / torch.pi)
+    # Map cosine similarity to [0, 1] range
     angular_sims = (1 + cos_sim) / 2
 
     return angular_sims
 
 
-def expected_distinct_count(P, s):
-    """Calculate the expected number of distinct elements sampled."""
-    return torch.sum(1 - (1 - P) ** s)
+def expected_distinct_count(probabilities, sample_count):
+    """
+    Calculate the expected number of distinct elements sampled with replacement.
+    
+    Args:
+        probabilities: Probabilities for each element
+        sample_count: Number of samples to draw
+        
+    Returns:
+        Expected number of distinct elements
+    """
+    return torch.sum(1 - (1 - probabilities) ** sample_count)
 
 
 def add_missing_edges_and_update_types(edge_index, sampled_edge_index, edge_types):
@@ -305,141 +363,135 @@ def add_missing_edges_and_update_types(edge_index, sampled_edge_index, edge_type
     Add missing edges from edge_index to sampled_edge_index and update edge_types accordingly.
 
     Args:
-        edge_index (torch.Tensor): Tensor of size (2, E) containing all edges.
-        sampled_edge_index (torch.Tensor): Tensor of size (2, E') containing sampled edges.
-        edge_types (torch.Tensor): Tensor of size (E') containing edge types for the sampled edges.
+        edge_index: Tensor of size (2, E) containing all edges
+        sampled_edge_index: Tensor of size (2, E') containing sampled edges
+        edge_types: Tensor of size (E') containing edge types for the sampled edges
 
     Returns:
-        updated_sampled_edge_index (torch.Tensor): Updated sampled edge index.
-        updated_edge_types (torch.Tensor): Updated edge types with new types assigned to the added edges.
+        (updated_sampled_edge_index, updated_edge_types): Tuple containing updated edge index and types
     """
-    # Ensure tensors are on the same device
     device = edge_index.device
 
-    # Convert edge_index and sampled_edge_index to sets of edges
-    edge_set = set(map(tuple, edge_index.T.tolist()))  # Convert edges to a set of tuples
-    sampled_set = set(map(tuple, sampled_edge_index.T.tolist()))  # Convert sampled edges to a set of tuples
+    # Convert edge lists to sets for easier comparison
+    edge_set = set(map(tuple, edge_index.T.tolist()))
+    sampled_set = set(map(tuple, sampled_edge_index.T.tolist()))
 
-    # Find the missing edges (present in edge_index but not in sampled_edge_index)
-    missing_edges = edge_set - sampled_set  # Edges present in edge_index but not in sampled_edge_index
+    # Find edges that are in the original graph but not in the sampled graph
+    missing_edges = edge_set - sampled_set
+    missing_edges_tensor = torch.tensor(list(missing_edges), dtype=torch.long, device=device).T
 
-    # Convert the missing edges back to a tensor
-    missing_edges_tensor = torch.tensor(list(missing_edges), dtype=torch.long,
-                                        device=device).T  # Transpose to (2, E_missing)
-
-    # Concatenate the missing edges to the sampled_edge_index
+    # Add missing edges to the sampled edges
     updated_sampled_edge_index = torch.cat((sampled_edge_index, missing_edges_tensor), dim=1)
 
-    # Create the updated_edge_types
-    updated_edge_types = edge_types.clone()  # Copy the original edge types
-
-    # The first E' elements of updated_edge_types are kept the same
-    E_prime = sampled_edge_index.shape[1]  # The original number of sampled edges (E')
-    E_u = updated_sampled_edge_index.shape[1]  # The updated number of sampled edges (E_u)
-
-    # For the added edges (from the missing edges), assign new edge types
-    max_edge_type = torch.max(edge_types) if edge_types.numel() > 0 else -1  # max edge type, or -1 if empty
-    new_edge_type = max_edge_type + 1  # New edge type to assign
-
-    # Assign the new edge types to the newly added edges (those after E')
+    # Keep existing edge types and assign new type to missing edges
+    updated_edge_types = edge_types.clone()
+    E_prime = sampled_edge_index.shape[1]  # Original sampled edges count
+    E_u = updated_sampled_edge_index.shape[1]  # Updated total count
+    
+    # Assign a new edge type (increment from max existing type)
+    max_edge_type = torch.max(edge_types) if edge_types.numel() > 0 else -1
+    new_edge_type = max_edge_type + 1
     new_edge_types_tensor = torch.full((E_u - E_prime,), new_edge_type, dtype=torch.long, device=device)
 
-    # Concatenate the new edge types to the existing edge types
+    # Combine existing and new edge types
     updated_edge_types = torch.cat((updated_edge_types, new_edge_types_tensor))
 
     return updated_sampled_edge_index, updated_edge_types
 
-def find_required_samples(P, m, max_iterations=100, tolerance=0.05):
-    """Find the number of samples required to expect m distinct elements."""
-    num_edge = P.shape[0]
-    low, high = 1, 5*num_edge  # Define initial bounds for s
+def find_required_samples(probabilities, target_distinct_count, max_iterations=100, tolerance=0.05):
+    """
+    Find the number of samples required to expect a certain number of distinct elements.
+    
+    Args:
+        probabilities: Probabilities for each element
+        target_distinct_count: Target number of distinct elements
+        max_iterations: Maximum number of binary search iterations
+        tolerance: Acceptable tolerance relative to target_distinct_count
+        
+    Returns:
+        Required number of samples
+    """
+    num_edge = probabilities.shape[0]
+    # Initialize binary search boundaries
+    low, high = 1, 5*num_edge
+    tolerance_threshold = tolerance * target_distinct_count
     iterations = 0
-    tolerance = tolerance*m
 
-
+    # Binary search to find required sample count
     while iterations < max_iterations:
-        s = (low + high) // 2  # Binary search midpoint
-        expected_count = expected_distinct_count(P, s)
+        sample_count = (low + high) // 2
+        expected_count = expected_distinct_count(probabilities, sample_count)
 
-        if abs(expected_count - m) < tolerance:
-            return s  # Found the required number of samples
-        elif expected_count < m:
-            low = s + 1  # Increase the lower bound
+        if abs(expected_count - target_distinct_count) < tolerance_threshold:
+            return sample_count  # Found approximate solution
+        elif expected_count < target_distinct_count:
+            low = sample_count + 1  # Need more samples
         else:
-            high = s - 1  # Decrease the upper bound
+            high = sample_count - 1  # Need fewer samples
 
         iterations += 1
 
-    return high  # If not found within max_iterations
+    return high  # Return best estimate if max iterations reached
 
-def sparsification(original_edge, edge_list, edge_weights, features, num_samples,  num_relations=1, method='kts',
+def sparsification(original_edge, edge_list, edge_weights, features, num_samples, num_relations=1, method='kts',
                    epsilon=0.1, device='cuda:0', undirected=True, keep_removed_edges=False, beta=1):
     """
     Samples edges from a graph based on angular similarity and effective resistance.
 
-    Parameters:
-    - edge_list: numpy array of shape (E, 2) representing edges
-    - edge_weights: numpy array of shape (E,) representing weights of edges
-    - features: torch tensor of shape (n, f) representing node features
-    - num_samples: number of edges to sample
-    - method: method for effective resistance calculation ('ext', 'spl', 'kts')
-    - epsilon: parameter for effective resistance calculation
-    - device: device to use ('cpu' or 'cuda:0')
-    - undirected: if set to true, convert the sampled graph to an undirected graph
-    - keep_removed_edges: if set to true, keep removed edges as another type of relation
+    Args:
+        original_edge: Original edge index
+        edge_list: numpy array of shape (E, 2) representing edges
+        edge_weights: numpy array of shape (E,) representing weights of edges
+        features: torch tensor of shape (n, f) representing node features
+        num_samples: number of edges to sample
+        num_relations: number of different edge types/relations to use
+        method: method for effective resistance calculation ('ext', 'spl', 'kts')
+        epsilon: parameter for effective resistance calculation
+        device: device to use ('cpu' or 'cuda:0')
+        undirected: if set to true, convert the sampled graph to an undirected graph
+        keep_removed_edges: if set to true, keep removed edges as another type of relation
+        beta: multiplier for the number of samples
 
     Returns:
-    - sampled_edge_index: tensor of shape (2, S) for sampled edges
-    - edge_type: tensor of shape (S,) representing edge types
-    - sampled_edge_weight: tensor of shape (S,) for weights of sampled edges
-    - edge_probabilities: tensor of probabilities for each edge
+        tuple: (sampled_edge_index, edge_type, sampled_edge_weight)
     """
-    edge_index = torch.LongTensor(edge_list.T).to(device)  # Convert edge_list to a PyTorch LongTensor
+    # Convert edge list to PyTorch tensor format
+    edge_index = torch.LongTensor(edge_list.T).to(device)
 
-    # Compute angular similarity between edges and node features
+    # Calculate edge importance measures
     angular_similarity = compute_angular_similarity(edge_index, features.to(device))
-
-    # Calculate effective resistance for each edge
     effective_resistance = torch.tensor(compute_effective_resistance(edge_list, edge_weights, epsilon, method), device=device)
 
-    # Calculate probabilities for edge sampling
+    # Combine importance measures to get sampling probabilities
     probabilities = (1 + 0.5*angular_similarity) * effective_resistance * torch.tensor(edge_weights, device=device)
+    unnormalized_probabilities = probabilities.clone()
+    probabilities /= torch.sum(probabilities)  # Normalize to sum to 1
 
-    unnormalized_probabilities = probabilities
-    probabilities /= torch.sum(probabilities)  # Normalize probabilities to sum to 1
+    # Determine sample count needed to achieve target distinct edges
+    sampling_count = find_required_samples(probabilities, int(num_samples*beta))
 
+    # Calculate weights for inverse probability sampling
+    inverse_probabilities = torch.tensor(edge_weights).to(device) / (sampling_count * probabilities)
 
-    # compute sampling count q
-    q = find_required_samples(probabilities, int(num_samples*beta))
-
-    # Calculate the inverse probability for weighted sampling
-    inverse_probabilities = torch.tensor(edge_weights).to(device) / (q * probabilities)
-
-
-    # Use WeightedRandomSampler for sampling edges
-
-    sampler = WeightedRandomSampler(unnormalized_probabilities, num_samples=q, replacement=True)
+    # Sample edges based on importance
+    sampler = WeightedRandomSampler(unnormalized_probabilities, num_samples=sampling_count, replacement=True)
     sampled_indices = torch.LongTensor(list(sampler)).to(device)
 
-
-    # Compute weighted edge indices using scatter_add
+    # Compute weighted edge indices
     sampled_weighted_edges = scatter_add_raw(inverse_probabilities[sampled_indices], sampled_indices, dim_size=edge_list.shape[0])
 
-    # Create a boolean mask to identify sampled edges
+    # Create the sampled graph
     sampled_mask = sampled_weighted_edges > 0
-
-    # Sample the edge indices and weights
     sampled_edge_index = edge_index[:, sampled_mask]
     sampled_edge_weight = torch.sqrt(sampled_weighted_edges[sampled_mask].float())
 
-
     print(f'# of edges of computational graph: {sampled_edge_index.shape[1]}')
 
+    # Ensure undirected structure if requested
     if undirected:
-        # sampled_edge_index = to_undirected(sampled_edge_index)
         sampled_edge_index, sampled_edge_weight = to_undirected(sampled_edge_index, sampled_edge_weight, reduce='mean')
 
-    # create the categories based on integer values
-    edge_types = (sampled_edge_weight.floor()).long()  # floor and cast to integer
+    # Convert edge weights to discrete types
+    edge_types = (sampled_edge_weight.floor()).long()
 
     return sampled_edge_index, edge_types, sampled_edge_weight

@@ -113,7 +113,7 @@ for key in datasets:
         dataset.data.edge_index, dataset.data.edge_type, dataset.data.edge_weight = goku_rewiring.goku(
             dataset.data.edge_index.numpy().transpose(), dataset.data.x,
             to_undirected=args.to_undirected,
-            k_guess=args.k_guess, step_size=args.step_size,
+            mini_k=args.k_guess, step_size=args.step_size,
             num_relations=args.num_relations,
             device="cuda:0" if torch.cuda.is_available() else "cpu",
             metric=args.metric,
