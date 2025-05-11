@@ -1,6 +1,6 @@
 # GOKU: Mitigating Over-Squashing in GNNs by Spectrum-Preserving Sparsification
 
-Official implementation of the ICML 2025 paper: "Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification"
+Main code for the ICML 2025 paper: "Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification"
 
 
 ## Installation
